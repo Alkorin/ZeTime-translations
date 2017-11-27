@@ -66,6 +66,8 @@
     <string name="s_about_us_learn_more">ДОПОЛНИТЕЛЬНАЯ ИНФОРМАЦИЯ</string>
     <string name="s_account_has_exist">Адрес электронной почты уже используется</string>
     <string name="s_active_calories">Активные калории</string>
+    <string name="s_active_min">Active minutes</string>
+    <string name="s_active_min_capital">ACTIVE MINUTES</string>
     <string name="s_active_minutes">Active minutes</string>
     <string name="s_active_minutes_capital">ACTIVE MINUTES</string>
     <string name="s_active_resting_calories">Активные калории + неактивные калории</string>
@@ -114,6 +116,7 @@
     <string name="s_april_full_capital">АПРЕЛЬ</string>
     <string name="s_august_full_capital">АВГУСТ</string>
     <string name="s_auto_track">Автоматический контроль</string>
+    <string name="s_awake">пробуждение</string>
     <string name="s_awake_capital">ПРОБУЖДЕНИЕ</string>
     <string name="s_awake_time">ВРЕМЯ ПРОБУЖДЕНИЯ</string>
     <string name="s_awake_time_capital">ВРЕМЯ ПРОБУЖДЕНИЯ</string>
@@ -122,6 +125,7 @@
 СЯ СПАСТЬ"</string>
     <string name="s_bills">Счета</string>
     <string name="s_bills_capital">СЧЕТА</string>
+    <string name="s_birthdate_capital">ДЕНЬ РОЖДЕНИЯ</string>
     <string name="s_birthday">День рождения</string>
     <string name="s_birthday_capital">ДЕНЬ РОЖДЕНИЯ</string>
     <string name="s_bluetooth_not_supported">Bluetooth не поддерживается.</string>
@@ -156,6 +160,7 @@
     <string name="s_daily_goal_capital">ЕЖЕДНЕВНЫЙ ЦЕЛЕВОЙ ПОКАЗАТЕЛЬ</string>
     <string name="s_daily_goals">ежедневный целевой показатель</string>
     <string name="s_dashboard">Циферблат</string>
+    <string name="s_date">дата</string>
     <string name="s_date_capital">ДАТА</string>
     <string name="s_date_format">Формат даты</string>
     <string name="s_date_format_capital">ФОРМАТ ДАТЫ</string>
@@ -165,12 +170,14 @@
     <string name="s_date_format_ymd">ГГ/MM/ДД</string>
     <string name="s_december_full_capital">ДЕКАБРЬ</string>
     <string name="s_deep_capital">ГЛУБОКИЙ</string>
+    <string name="s_deep_sleep">Глубокий сон</string>
     <string name="s_deep_sleep_capital">ГЛУБОКИЙ СОН</string>
     <string name="s_default_wallpaper_capital">ОБОИ ПО УМОЛЧАНИЮ</string>
     <string name="s_description">Описание</string>
     <string name="s_detail_day_view">Обзор за день</string>
     <string name="s_detail_month_view">Обзор за месяц</string>
     <string name="s_detail_week_view">Обзор за неделю</string>
+    <string name="s_dial">диск</string>
     <string name="s_disable_auto_sleep">Выключить автоматический режим сна</string>
     <string name="s_disable_do_not_disturb">Отключить не беспокоить</string>
     <string name="s_disable_inactivity_alert">Отключить предупреждение о бездействии</string>
@@ -212,7 +219,7 @@
     <string name="s_fri">Пт</string>
     <string name="s_fri_capital">ПТ</string>
     <string name="s_friday">Пятница</string>
-    <string name="s_ft_in">fit in</string>
+    <string name="s_ft_in">ft in</string>
     <string name="s_gender">Пол</string>
     <string name="s_gender_capital">ПОЛ</string>
     <string name="s_goal_achieved">Достигнутая цель</string>
@@ -227,6 +234,7 @@
 ОБНОВЛЕНИЕ ЗАВЕРШЕНО"</string>
     <string name="s_h">ч</string>
     <string name="s_heart_rate">Пульс</string>
+    <string name="s_heart_rate_c">Пульс</string>
     <string name="s_heart_rate_capital">ПУЛЬС</string>
     <string name="s_heart_rate_max">верхнее предельное значение пульса – 220</string>
     <string name="s_heart_rate_min">нижнее предельное значение пульса – 40</string>
@@ -265,6 +273,7 @@
     <string name="s_light_device_text3">Нажмите нижнюю кнопку вашего ZeTime &amp;</string>
     <string name="s_light_device_text4">"
 нажмите кнопку настройки ниже"</string>
+    <string name="s_light_sleep">легкий сон</string>
     <string name="s_light_sleep_capital">ЛЕГКИЙ СОН</string>
     <string name="s_loading">Загрузка</string>
     <string name="s_locked_capital">ЗАБЛОКИРОВАНА</string>
@@ -305,6 +314,7 @@
     <string name="s_monday">Понедельник</string>
     <string name="s_monitoring_track">Наблюдение за траекторией</string>
     <string name="s_month">Месяц</string>
+    <string name="s_must_finish_sync_time">Начните с калибровки ZeTime</string>
     <string name="s_must_input_new_password">Необходимо ввести новый пароль</string>
     <string name="s_must_input_old_password">Необходимо ввести старый пароль</string>
     <string name="s_must_input_repeated_password">Необходимо ввести пароль еще раз</string>
@@ -353,6 +363,7 @@
     <string name="s_preset_answers_capital">НАСТРОЕННЫЕ ОТВЕТЫ</string>
     <string name="s_preset_sleep">Предварительная настройка сна</string>
     <string name="s_preset_sleep_capital">ПРЕДВАРИТЕЛЬНАЯ НАСТРОЙКА ДЛЯ СНА</string>
+    <string name="s_preset_track">предварительная настройка слежения</string>
     <string name="s_preset_track_capital">ПРЕДВАРИТЕЛЬНАЯ НАСТРОЙКА СЛЕЖЕНИЯ</string>
     <string name="s_public_ble_disconnected">Bluetooth отключен</string>
     <string name="s_public_check_firmware">Check the firmware version</string>
@@ -424,9 +435,9 @@ ZeFit3 начнет мягко вибрировать и отобразит со
     <string name="s_reminders">Напоминания</string>
     <string name="s_repeat_password">Повторить новый пароль</string>
     <string name="s_repeat_preset_answers">Повторите настроенные ответы</string>
+    <string name="s_reset">Сброс</string>
     <string name="s_reset_capital">СБРОС</string>
     <string name="s_reset_my_password">СБРОСИТЬ МОЙ ПАРОЛЬ</string>
-    <string name="s_reset_z">Сброс</string>
     <string name="s_reset_zetime">СбросZeTime</string>
     <string name="s_s_capital">С</string>
     <string name="s_s_capital1">В</string>
@@ -488,7 +499,6 @@ ZeFit3 начнет мягко вибрировать и отобразит со
     <string name="s_setting_my_profile_album">АЛЬБОМ</string>
     <string name="s_setting_my_profile_confirm_new_password">Повторите Новый Пароль</string>
     <string name="s_setting_my_profile_country">Страна/регион</string>
-    <string name="s_setting_my_profile_email">Электронная почта</string>
     <string name="s_setting_my_profile_old_password">Старый пароль</string>
     <string name="s_setting_my_profile_password">Пароль</string>
     <string name="s_setting_my_profile_submit">ОТПРАВИТЬ</string>
@@ -496,7 +506,6 @@ ZeFit3 начнет мягко вибрировать и отобразит со
     <string name="s_setting_notifications_calendar">Событие Календаря</string>
     <string name="s_setting_notifications_call">Вызовы</string>
     <string name="s_setting_notifications_double_vibration">Двукратная вибрация</string>
-    <string name="s_setting_notifications_email">Электронная почта</string>
     <string name="s_setting_notifications_no_vibration">Отсутствие вибрации</string>
     <string name="s_setting_notifications_single_vibration">Однократная вибрация</string>
     <string name="s_setting_notifications_sms">СМС</string>
@@ -560,7 +569,6 @@ ZeFit3 начнет мягко вибрировать и отобразит со
     <string name="s_title_edit">Править</string>
     <string name="s_title_goal">Целевые показатели</string>
     <string name="s_title_heart_rate">ЧАСТОТА СЕРДЦЕБИЕНИЯ</string>
-    <string name="s_title_inactivity_alert">Предупреждение в случае бездействия</string>
     <string name="s_title_my_profile">Мой профиль</string>
     <string name="s_title_reset">Сброс</string>
     <string name="s_title_save">Сохранить</string>
@@ -574,6 +582,7 @@ ZeFit3 начнет мягко вибрировать и отобразит со
     <string name="s_tues">Вт</string>
     <string name="s_tuesday">Пятница</string>
     <string name="s_unlock">разблокировано</string>
+    <string name="s_unlock_capital">РАЗБЛОКИРОВАНО</string>
     <string name="s_unlocked">разблокировано</string>
     <string name="s_unlocked_capital">РАЗБЛОКИРОВАНО</string>
     <string name="s_unpair">Pазорвать соединение</string>
@@ -610,7 +619,6 @@ ZeFit3 начнет мягко вибрировать и отобразит со
     <string name="s_wheel_ok">Ок</string>
     <string name="s_widgets">Виджеты</string>
     <string name="s_widgets_capital">ВИДЖЕТЫ</string>
-    <string name="s_wrong_email_or_password">неверный адрес эл. почты или пароль.</string>
     <string name="s_yes_capital">ДА</string>
     <string name="s_yesterday">Вчера</string>
     <string name="s_yesterday_capital">ВЧЕРА</string>

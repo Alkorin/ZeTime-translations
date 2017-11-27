@@ -65,6 +65,8 @@ WithMyKronoz的目標獨特而簡單：以多樣化的智能穿戴裝置滿足�
     <string name="s_about_us_learn_more">瞭解更多</string>
     <string name="s_account_has_exist">該電子郵件地址已被使用</string>
     <string name="s_active_calories">卡路里活動</string>
+    <string name="s_active_min">活躍分鐘</string>
+    <string name="s_active_min_capital">活躍分鐘</string>
     <string name="s_active_minutes">活躍分鐘</string>
     <string name="s_active_minutes_capital">活躍分鐘</string>
     <string name="s_active_resting_calories">卡路里活動 + 卡路里休息</string>
@@ -117,10 +119,12 @@ WithMyKronoz的目標獨特而簡單：以多樣化的智能穿戴裝置滿足�
     <string name="s_anti_lost">防丟失</string>
     <string name="s_april_full_capital">四月</string>
     <string name="s_august_full_capital">八月</string>
+    <string name="s_auto_sleep">自動睡眠</string>
     <string name="s_auto_time_hour_tip">把時針調整到紅點</string>
     <string name="s_auto_time_min_tip">...現在把分鐘調整到紅點</string>
     <string name="s_auto_time_sync_tip">同步時間到手機上</string>
     <string name="s_auto_track">自動監控</string>
+    <string name="s_awake">清醒</string>
     <string name="s_awake_capital">清醒</string>
     <string name="s_awake_time">起床時間</string>
     <string name="s_awake_time_capital">起床時間</string>
@@ -129,6 +133,7 @@ WithMyKronoz的目標獨特而簡單：以多樣化的智能穿戴裝置滿足�
     <string name="s_big">大號</string>
     <string name="s_bills">帳單</string>
     <string name="s_bills_capital">帳單</string>
+    <string name="s_birthdate_capital">生日</string>
     <string name="s_birthday">生日</string>
     <string name="s_birthday_capital">生日</string>
     <string name="s_bluetooth_not_supported">不支援藍牙</string>
@@ -160,11 +165,14 @@ WithMyKronoz的目標獨特而簡單：以多樣化的智能穿戴裝置滿足�
     <string name="s_create_my_account">建立新帳戶</string>
     <string name="s_create_my_account_capital">建立新帳戶</string>
     <string name="s_create_new_watch_face">創建新的錶盤</string>
+    <string name="s_create_your_watch_face">創建您的錶盤</string>
+    <string name="s_create_your_watch_face_capital">創建您的錶盤</string>
     <string name="s_custom_repeat">客製化重覆</string>
     <string name="s_custom_repeat_capital">客製化重覆</string>
     <string name="s_daily_goal_capital">日常目標</string>
     <string name="s_daily_goals">日常目標</string>
     <string name="s_dashboard">儀表盤</string>
+    <string name="s_date">日期</string>
     <string name="s_date_capital">日期</string>
     <string name="s_date_format">日期格式</string>
     <string name="s_date_format_capital">日期格式</string>
@@ -174,15 +182,17 @@ WithMyKronoz的目標獨特而簡單：以多樣化的智能穿戴裝置滿足�
     <string name="s_date_format_ymd">年/月/日</string>
     <string name="s_december_full_capital">十二月</string>
     <string name="s_deep_capital">深睡</string>
+    <string name="s_deep_sleep">深度睡眠</string>
     <string name="s_deep_sleep_capital">深度睡眠</string>
     <string name="s_default_wallpaper_capital">默認壁紙</string>
     <string name="s_description">描述</string>
     <string name="s_detail_day_view">日視圖</string>
     <string name="s_detail_month_view">月視圖</string>
     <string name="s_detail_week_view">周視圖</string>
+    <string name="s_dial">撥號</string>
     <string name="s_disable_auto_sleep">停用自動睡眠</string>
     <string name="s_disable_do_not_disturb">禁用請勿打擾</string>
-    <string name="s_disable_inactivity_alert">停用不活動鬧鈴</string>
+    <string name="s_disable_inactivity_alert">停用久坐提醒</string>
     <string name="s_disable_left_handy_mode">停用左手模式</string>
     <string name="s_discard_capital">丟棄</string>
     <string name="s_display_capital">顯示</string>
@@ -196,14 +206,14 @@ WithMyKronoz的目標獨特而簡單：以多樣化的智能穿戴裝置滿足�
     <string name="s_duration_capital">時長</string>
     <string name="s_eat">吃飯</string>
     <string name="s_eat_capital">吃飯</string>
-    <string name="s_email">郵箱</string>
+    <string name="s_email">電子郵箱</string>
     <string name="s_email_null">郵箱不能为空</string>
     <string name="s_email_wrong">電子郵件格式錯誤</string>
     <string name="s_enable_auto_sleep">啓用自動睡眠</string>
     <string name="s_enable_bluetooth_tip_1">請設定Android手機藍牙為打開狀態，確保</string>
     <string name="s_enable_bluetooth_tip_2">ZeTime開啟並且在附近</string>
     <string name="s_enable_do_not_disturb">啟用不受打擾</string>
-    <string name="s_enable_inactivity_alert">啓用不活動鬧鈴</string>
+    <string name="s_enable_inactivity_alert">啓用久坐提醒</string>
     <string name="s_enable_left_handy_mode">啟用左手模式</string>
     <string name="s_end">結束</string>
     <string name="s_end_capital">結束</string>
@@ -218,10 +228,10 @@ WithMyKronoz的目標獨特而簡單：以多樣化的智能穿戴裝置滿足�
     <string name="s_first_name_capital">名字</string>
     <string name="s_forgot_password">忘記您的密碼？</string>
     <string name="s_frequency">頻次</string>
-    <string name="s_fri">星期五</string>
+    <string name="s_fri">周五</string>
     <string name="s_fri_capital">五</string>
     <string name="s_friday">星期五</string>
-    <string name="s_ft_in">fit in</string>
+    <string name="s_ft_in">ft in</string>
     <string name="s_gender">性別</string>
     <string name="s_gender_capital">性別</string>
     <string name="s_goal_achieved">目標達成</string>
@@ -237,6 +247,7 @@ WithMyKronoz的目標獨特而簡單：以多樣化的智能穿戴裝置滿足�
     <string name="s_hands_calibration">校準時間</string>
     <string name="s_hands_calibration_capital">校準時間</string>
     <string name="s_heart_rate">心率</string>
+    <string name="s_heart_rate_c">心率</string>
     <string name="s_heart_rate_capital">心率</string>
     <string name="s_heart_rate_max">心率值的範圍限制爲220</string>
     <string name="s_heart_rate_min">心率值的下限爲40</string>
@@ -253,8 +264,8 @@ WithMyKronoz的目標獨特而簡單：以多樣化的智能穿戴裝置滿足�
     <string name="s_hour_hand_capital">時針</string>
     <string name="s_hours_capital">小時</string>
     <string name="s_hours_lower">小時</string>
-    <string name="s_inactivity_alert">不活動鬧鈴</string>
-    <string name="s_inactivity_alert_capital">不啟動鬧鈴</string>
+    <string name="s_inactivity_alert">久坐提醒</string>
+    <string name="s_inactivity_alert_capital">久坐提醒</string>
     <string name="s_insert_your">輸入您的</string>
     <string name="s_january_full_capital">一月</string>
     <string name="s_july_full_capital">七月</string>
@@ -276,6 +287,7 @@ WithMyKronoz的目標獨特而簡單：以多樣化的智能穿戴裝置滿足�
     <string name="s_light_device_text3">按下ZeTime的下方按鈕&amp;</string>
     <string name="s_light_device_text4">"
 點擊下面的設置按鈕"</string>
+    <string name="s_light_sleep">淺度睡眠</string>
     <string name="s_light_sleep_capital">淺度睡眠</string>
     <string name="s_loading">正在加載</string>
     <string name="s_locked_capital">已鎖定</string>
@@ -311,12 +323,12 @@ WithMyKronoz的目標獨特而簡單：以多樣化的智能穿戴裝置滿足�
     <string name="s_min_min">最小</string>
     <string name="s_minute_hand_capital">分針</string>
     <string name="s_miss_calls">未接來電</string>
-    <string name="s_mon">星期一</string>
+    <string name="s_mon">周一</string>
     <string name="s_mon_capital">一</string>
     <string name="s_monday">星期一</string>
     <string name="s_monitoring_track">監控跟蹤</string>
     <string name="s_month">月份</string>
-    <string name="s_must_finish_sync_time">必須完成同步時間</string>
+    <string name="s_must_finish_sync_time">開始校准你的ZeTime</string>
     <string name="s_must_input_new_password">必須輸入新密碼</string>
     <string name="s_must_input_old_password">必須輸入舊密碼</string>
     <string name="s_must_input_repeated_password">必須重複輸入密碼</string>
@@ -375,6 +387,7 @@ WithMyKronoz的目標獨特而簡單：以多樣化的智能穿戴裝置滿足�
     <string name="s_preset_answers_capital">預設回答</string>
     <string name="s_preset_sleep">預設睡眠</string>
     <string name="s_preset_sleep_capital">預設睡眠</string>
+    <string name="s_preset_track">預設跟蹤</string>
     <string name="s_preset_track_capital">預設跟蹤</string>
     <string name="s_public_ble_disconnected">藍牙已斷開連接</string>
     <string name="s_public_check_firmware">Check the firmware version</string>
@@ -446,25 +459,28 @@ ZeFit⁴會輕輕震動並顯示
     <string name="s_reminders">提醒</string>
     <string name="s_repeat_password">重覆新密碼</string>
     <string name="s_repeat_preset_answers">重複預設回答</string>
+    <string name="s_reset">重置</string>
     <string name="s_reset_capital">出廠設置</string>
     <string name="s_reset_my_password">設置密碼</string>
-    <string name="s_reset_z">重置</string>
     <string name="s_reset_zetime">重置ZeTime</string>
     <string name="s_s_capital">六</string>
     <string name="s_s_capital1">日</string>
     <string name="s_sa_capital">六</string>
-    <string name="s_sat">星期六</string>
+    <string name="s_sat">周六</string>
     <string name="s_sat_capital">六</string>
     <string name="s_saturday">星期六</string>
     <string name="s_save_capital">保存</string>
     <string name="s_searching_for_your_zefit4">搜尋您的ZeFit⁴</string>
     <string name="s_searching_for_your_zefit4hr">搜尋您的ZeFit⁴ᴴᴿ</string>
     <string name="s_searching_for_your_zetime">搜尋您的ZeTime</string>
+    <string name="s_second_hands">秒針</string>
     <string name="s_select_a_picture_from_your_library">"請從你的圖庫中
 選取一張照片"</string>
     <string name="s_select_a_watch_face">選擇一個錶盤</string>
     <string name="s_select_a_watch_face_capital">選擇一個錶盤</string>
+    <string name="s_select_your_prefered_alert">選擇您喜歡的提醒方式</string>
     <string name="s_select_your_watch">請選中你的手錶</string>
+    <string name="s_send_watch_face_tip">發送自定義錶盤到你的ZeTime?</string>
     <string name="s_september_full_capital">九月</string>
     <string name="s_set_automatically">自動設定</string>
     <string name="s_set_up_capital">設定</string>
@@ -514,7 +530,6 @@ ZeFit⁴會輕輕震動並顯示
     <string name="s_setting_my_profile_album">ALBUM</string>
     <string name="s_setting_my_profile_confirm_new_password">確認新密碼</string>
     <string name="s_setting_my_profile_country">國家/地區</string>
-    <string name="s_setting_my_profile_email">電子郵箱</string>
     <string name="s_setting_my_profile_old_password">舊密碼</string>
     <string name="s_setting_my_profile_password">密碼</string>
     <string name="s_setting_my_profile_submit">提交</string>
@@ -522,7 +537,6 @@ ZeFit⁴會輕輕震動並顯示
     <string name="s_setting_notifications_calendar">日曆事件</string>
     <string name="s_setting_notifications_call">來電</string>
     <string name="s_setting_notifications_double_vibration">振動兩次</string>
-    <string name="s_setting_notifications_email">電子郵箱</string>
     <string name="s_setting_notifications_no_vibration">不振動</string>
     <string name="s_setting_notifications_single_vibration">振動一次</string>
     <string name="s_setting_notifications_sms">訊息</string>
@@ -568,7 +582,7 @@ ZeFit⁴會輕輕震動並顯示
     <string name="s_steps_lower">步</string>
     <string name="s_su_capital">日</string>
     <string name="s_successful">成功</string>
-    <string name="s_sun">日</string>
+    <string name="s_sun">周日</string>
     <string name="s_sun_capital">日</string>
     <string name="s_sunday">星期日</string>
     <string name="s_synchronize_capital">同步</string>
@@ -576,10 +590,11 @@ ZeFit⁴會輕輕震動並顯示
     <string name="s_t_capital1">四</string>
     <string name="s_take_a_new_picture">"請拍攝一張新的
 照片"</string>
+    <string name="s_take_a_new_picture_capital">拍攝新照片</string>
     <string name="s_temperature">℃/℉</string>
     <string name="s_th_capital">四</string>
     <string name="s_the_old_password_is_incorrect">旧密碼錯誤。</string>
-    <string name="s_thu">星期四</string>
+    <string name="s_thu">周四</string>
     <string name="s_thur_capital">四</string>
     <string name="s_thursday">星期四</string>
     <string name="s_thus_capital">二</string>
@@ -599,7 +614,6 @@ ZeFit⁴會輕輕震動並顯示
     <string name="s_title_edit">編輯</string>
     <string name="s_title_goal">目標</string>
     <string name="s_title_heart_rate">心率</string>
-    <string name="s_title_inactivity_alert">Inactivity Alert</string>
     <string name="s_title_my_profile">個人設定</string>
     <string name="s_title_reset">出廠設置</string>
     <string name="s_title_save">保存</string>
@@ -610,9 +624,10 @@ ZeFit⁴會輕輕震動並顯示
     <string name="s_tracking_every">跟蹤間隔</string>
     <string name="s_try_again_capital">重試</string>
     <string name="s_tu_capital">二</string>
-    <string name="s_tues">星期二</string>
+    <string name="s_tues">周二</string>
     <string name="s_tuesday">星期二</string>
     <string name="s_unlock">解鎖</string>
+    <string name="s_unlock_capital">解鎖</string>
     <string name="s_unlocked">解鎖</string>
     <string name="s_unlocked_capital">解鎖</string>
     <string name="s_unpair">解綁</string>
@@ -632,6 +647,9 @@ ZeFit⁴會輕輕震動並顯示
     <string name="s_wake_up_time_capital">起床時間</string>
     <string name="s_wallpaper">壁紙</string>
     <string name="s_watch_face">錶面</string>
+    <string name="s_watch_face_home_page_tip">點擊您想保存到ZeTime的錶盤圖片</string>
+    <string name="s_watch_face_home_page_tip2">請選擇您的錶盤到ZeTime上</string>
+    <string name="s_watch_face_home_page_tip2_capital">請選擇您的錶盤到ZeTime上</string>
     <string name="s_watch_faces_capital">錶盤</string>
     <string name="s_watch_selection_capital">選擇手錶</string>
     <string name="s_wearing_habits">穿著習慣</string>
@@ -639,7 +657,7 @@ ZeFit⁴會輕輕震動並顯示
     <string name="s_weather">天氣</string>
     <string name="s_weather_capital">天氣</string>
     <string name="s_weather_default_city">瑞士日內瓦</string>
-    <string name="s_wed">星期三</string>
+    <string name="s_wed">周三</string>
     <string name="s_wed_capital">三</string>
     <string name="s_wednesday">星期三</string>
     <string name="s_week">周</string>
@@ -648,7 +666,6 @@ ZeFit⁴會輕輕震動並顯示
     <string name="s_wheel_ok">是</string>
     <string name="s_widgets">部件</string>
     <string name="s_widgets_capital">部件</string>
-    <string name="s_wrong_email_or_password">電子郵件或密碼錯誤。</string>
     <string name="s_yes_capital">是</string>
     <string name="s_yesterday">昨天</string>
     <string name="s_yesterday_capital">昨天</string>
@@ -664,9 +681,8 @@ ZeFit⁴會輕輕震動並顯示
     <string name="s_zetime_welcome_2">腕間輕鬆查看你關注的所有消息</string>
     <string name="s_zetime_welcome_3">跟蹤你的日常活動和睡眠狀態</string>
     <string name="s_zetime_welcome_4">隨時保持連接</string>
-    <string name="s_auto_sleep">自動睡眠</string>
     <string name="s_h_capital">時</string>
     <string name="s_inactivity_alert_no_select_cycle_tip">選擇您希望提醒重複的那一天</string>
-    <string name="s_select_your_prefered_alert">選擇您喜歡的提醒方式</string>
-    <string name="s_send_watch_face_tip">發送自定義錶盤到你的ZeTime?</string>
+    <string name="s_token_expired_tip">距離上次使用 ZeTime 已經超過三天了，請再次登入</string>
+    <string name="s_zetime_is_running">ZeTime 執行中</string>
 </resources>

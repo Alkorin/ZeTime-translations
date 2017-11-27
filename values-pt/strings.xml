@@ -49,6 +49,8 @@ Consequentemente, os engenheiros da empresa desenvolvem constantemente dispositi
     <string name="s_about_us_learn_more">SAIBA MAIS</string>
     <string name="s_account_has_exist">Endereço de e-mail já utilizado</string>
     <string name="s_active_calories">Calorias durante a atividade</string>
+    <string name="s_active_min">Minutos activos</string>
+    <string name="s_active_min_capital">MINUTOS ACTIVOS</string>
     <string name="s_active_minutes">Minutos activos</string>
     <string name="s_active_minutes_capital">MINUTOS ACTIVOS</string>
     <string name="s_active_resting_calories">Calorias durante a atividade + calorias em repouso</string>
@@ -97,6 +99,7 @@ Consequentemente, os engenheiros da empresa desenvolvem constantemente dispositi
     <string name="s_april_full_capital">ABRIL</string>
     <string name="s_august_full_capital">AGOSTO</string>
     <string name="s_auto_track">Vigilância automatique</string>
+    <string name="s_awake">Acordado</string>
     <string name="s_awake_capital">ACORDADO</string>
     <string name="s_awake_time">Hora de acordar</string>
     <string name="s_awake_time_capital">HORA DE ACORDAR</string>
@@ -105,12 +108,13 @@ Consequentemente, os engenheiros da empresa desenvolvem constantemente dispositi
 DORMIR"</string>
     <string name="s_bills">Faturas</string>
     <string name="s_bills_capital">FATURAS</string>
+    <string name="s_birthdate_capital">DATA DE NASCIMENTO</string>
     <string name="s_birthday">Data de nascimento</string>
     <string name="s_birthday_capital">DATA DE NASCIMENTO</string>
     <string name="s_bluetooth_not_supported">Bluetooth não suportado.</string>
     <string name="s_bpm_capital">BPM</string>
-    <string name="s_calories">CALORIAS</string>
-    <string name="s_calories_capital">CALORIES</string>
+    <string name="s_calories">Calorias</string>
+    <string name="s_calories_capital">CALORIAS</string>
     <string name="s_calories_type">Tipo de calorias</string>
     <string name="s_calories_type_capital">TIPO DE CALORIAS</string>
     <string name="s_camera_capital">CÂMARA</string>
@@ -139,6 +143,7 @@ DORMIR"</string>
     <string name="s_daily_goal_capital">OBJETIVO DIÁRIO</string>
     <string name="s_daily_goals">Objetivo diário</string>
     <string name="s_dashboard">Painel</string>
+    <string name="s_date">Date</string>
     <string name="s_date_capital">DATE</string>
     <string name="s_date_format">Formato da data</string>
     <string name="s_date_format_capital">FORMATO DA DATA</string>
@@ -148,12 +153,14 @@ DORMIR"</string>
     <string name="s_date_format_ymd">AA/MM/DD</string>
     <string name="s_december_full_capital">DEZEMBRO</string>
     <string name="s_deep_capital">PROFUNDO</string>
+    <string name="s_deep_sleep">Sono pesado</string>
     <string name="s_deep_sleep_capital">SONO PROFUNDO</string>
     <string name="s_default_wallpaper_capital">PAPEL DE PAREDE PADRÃO</string>
     <string name="s_description">Descrição</string>
     <string name="s_detail_day_view">Vista por dia</string>
     <string name="s_detail_month_view">Vista por mês</string>
     <string name="s_detail_week_view">Vista por semana</string>
+    <string name="s_dial">Discar</string>
     <string name="s_disable_auto_sleep">Desativar sono automático</string>
     <string name="s_disable_do_not_disturb">Desativar não perturbe</string>
     <string name="s_disable_inactivity_alert">Desativar alerta de inatividade</string>
@@ -195,7 +202,7 @@ DORMIR"</string>
     <string name="s_fri">Sex.</string>
     <string name="s_fri_capital">SEX</string>
     <string name="s_friday">Sexta-feira</string>
-    <string name="s_ft_in">fit in</string>
+    <string name="s_ft_in">ft in</string>
     <string name="s_gender">Sexo</string>
     <string name="s_gender_capital">SEXO</string>
     <string name="s_goal_achieved">Objectivos</string>
@@ -210,6 +217,7 @@ BEM-SUCEDIDO"</string>
 ATUALIZAÇÃO CONCLUÍDA"</string>
     <string name="s_h">h</string>
     <string name="s_heart_rate">Ritmo cardíaco</string>
+    <string name="s_heart_rate_c">Ritmo cardíaco</string>
     <string name="s_heart_rate_capital">FREQUÊNCIA CARDÍACA</string>
     <string name="s_heart_rate_max">O intervalo de frequência cardíaca é 220</string>
     <string name="s_heart_rate_min">O limite inferior de frequência cardíaca é 40</string>
@@ -248,6 +256,7 @@ clique no botão de configuração abaixo"</string>
     <string name="s_light_device_text3">Pressione o botão inferior do seu ZeTime &amp;</string>
     <string name="s_light_device_text4">"
 Clique no botão de configuração abaixo"</string>
+    <string name="s_light_sleep">Sono suave</string>
     <string name="s_light_sleep_capital">SONO SUAVE</string>
     <string name="s_loading">A carregar</string>
     <string name="s_locked_capital">BLOQUEADO</string>
@@ -288,6 +297,7 @@ Clique no botão de configuração abaixo"</string>
     <string name="s_monday">Segunda-feira</string>
     <string name="s_monitoring_track">Faixa de monitorização</string>
     <string name="s_month">Mês</string>
+    <string name="s_must_finish_sync_time">Comece por calibrar seu ZeTime</string>
     <string name="s_must_input_new_password">Tem de introduzir a nova palavra-passe</string>
     <string name="s_must_input_old_password">Tem de introduzir a palavra-passe antiga</string>
     <string name="s_must_input_repeated_password">Tem de introduzir a repetição da palavra-passe</string>
@@ -336,6 +346,7 @@ no ecrã do seu relógio"</string>
     <string name="s_preset_answers_capital">RESPOSTAS PREDEFINIDAS</string>
     <string name="s_preset_sleep">Sono predefinido</string>
     <string name="s_preset_sleep_capital">SONO PREDEFINIDO</string>
+    <string name="s_preset_track">Predefinir monitorização</string>
     <string name="s_preset_track_capital">PREDEFINIR MONITORIZAÇÃO</string>
     <string name="s_public_ble_disconnected">O bluetooth está desligado</string>
     <string name="s_public_check_firmware">Check the firmware version</string>
@@ -407,9 +418,9 @@ ZeFit⁴ irá vibrar ligeiramente e
     <string name="s_reminders">Lembretes</string>
     <string name="s_repeat_password">Repetir a palavra-passe nova</string>
     <string name="s_repeat_preset_answers">Repita as respostas predefinidas</string>
+    <string name="s_reset">Redefinir</string>
     <string name="s_reset_capital">REDEFINIR</string>
     <string name="s_reset_my_password">REPOR A MINHA PALAVRA-PASSE</string>
-    <string name="s_reset_z">Redefinir</string>
     <string name="s_reset_zetime">Redefinir ZeTime</string>
     <string name="s_s_capital">S</string>
     <string name="s_s_capital1">D</string>
@@ -471,7 +482,6 @@ OBJETIVOS"</string>
     <string name="s_setting_my_profile_album">ALBUM</string>
     <string name="s_setting_my_profile_confirm_new_password">Repita nova senha</string>
     <string name="s_setting_my_profile_country">País/Região</string>
-    <string name="s_setting_my_profile_email">Email</string>
     <string name="s_setting_my_profile_old_password">Palavra-passe antiga</string>
     <string name="s_setting_my_profile_password">Password</string>
     <string name="s_setting_my_profile_submit">SUBMETA</string>
@@ -479,7 +489,6 @@ OBJETIVOS"</string>
     <string name="s_setting_notifications_calendar">Evento Do Calendário</string>
     <string name="s_setting_notifications_call">Chamadas</string>
     <string name="s_setting_notifications_double_vibration">Vibração dupla</string>
-    <string name="s_setting_notifications_email">Email</string>
     <string name="s_setting_notifications_no_vibration">Sem vibração</string>
     <string name="s_setting_notifications_single_vibration">Vibração única</string>
     <string name="s_setting_notifications_sms">SMS</string>
@@ -543,7 +552,6 @@ Faça o download agora ?"</string>
     <string name="s_title_edit">Editar</string>
     <string name="s_title_goal">Objectivos</string>
     <string name="s_title_heart_rate">Frequência cardíaca</string>
-    <string name="s_title_inactivity_alert">Alerta de inactividade</string>
     <string name="s_title_my_profile">O meu perfil</string>
     <string name="s_title_reset">Restabelecer</string>
     <string name="s_title_save">Guardar</string>
@@ -557,6 +565,7 @@ Faça o download agora ?"</string>
     <string name="s_tues">Ter.</string>
     <string name="s_tuesday">Terça-feira</string>
     <string name="s_unlock">Desbloqueado</string>
+    <string name="s_unlock_capital">DESBLOQUEADO</string>
     <string name="s_unlocked">Desbloqueado</string>
     <string name="s_unlocked_capital">DESBLOQUEADO</string>
     <string name="s_unpair">Desemparelhar</string>
@@ -593,7 +602,6 @@ DESPERTAR"</string>
     <string name="s_wheel_ok">Ok</string>
     <string name="s_widgets">Widgets</string>
     <string name="s_widgets_capital">WIDGETS</string>
-    <string name="s_wrong_email_or_password">e-mail ou palavra-passe incorreta.</string>
     <string name="s_yes_capital">SIM</string>
     <string name="s_yesterday">Ontem</string>
     <string name="s_yesterday_capital">ONTEM</string>

@@ -66,6 +66,8 @@ Como resultado, los ingenieros de la empresa están desarrollando continuamente 
     <string name="s_about_us_learn_more">APRENDA MAS SOBRE</string>
     <string name="s_account_has_exist">Dirección de e-mail ya en uso</string>
     <string name="s_active_calories">Calorias en actividad</string>
+    <string name="s_active_min">Minutos activo</string>
+    <string name="s_active_min_capital">MINUTOS ACTIVO</string>
     <string name="s_active_minutes">Minutos activo</string>
     <string name="s_active_minutes_capital">MINUTOS ACTIVO</string>
     <string name="s_active_resting_calories">Calorías en actividad + Calorías en reposo</string>
@@ -114,6 +116,7 @@ Como resultado, los ingenieros de la empresa están desarrollando continuamente 
     <string name="s_april_full_capital">ABRIL</string>
     <string name="s_august_full_capital">AGOSTO</string>
     <string name="s_auto_track">vigilencia automatica</string>
+    <string name="s_awake">Despertarse</string>
     <string name="s_awake_capital">DESPERTARSE</string>
     <string name="s_awake_time">Tiempo despierto</string>
     <string name="s_awake_time_capital">TIEMPO DESPIERTO</string>
@@ -121,6 +124,7 @@ Como resultado, los ingenieros de la empresa están desarrollando continuamente 
     <string name="s_bed_time_capital">MIN</string>
     <string name="s_bills">Facturas</string>
     <string name="s_bills_capital">FACTURAS</string>
+    <string name="s_birthdate_capital">CUMPLEAÑOS</string>
     <string name="s_birthday">Cumpleaños</string>
     <string name="s_birthday_capital">CUMPLEAÑOS</string>
     <string name="s_bluetooth_not_supported">Bluetooth no compatible</string>
@@ -155,6 +159,7 @@ Como resultado, los ingenieros de la empresa están desarrollando continuamente 
     <string name="s_daily_goal_capital">METAS DIARIAS</string>
     <string name="s_daily_goals">Metas diarias</string>
     <string name="s_dashboard">Tablero</string>
+    <string name="s_date">Fecha</string>
     <string name="s_date_capital">FECHA</string>
     <string name="s_date_format">Formato de fecha</string>
     <string name="s_date_format_capital">FORMATO DE FECHA</string>
@@ -164,6 +169,7 @@ Como resultado, los ingenieros de la empresa están desarrollando continuamente 
     <string name="s_date_format_ymd">YY/MM/DD</string>
     <string name="s_december_full_capital">NOVIEMBRE</string>
     <string name="s_deep_capital">PROFUNDO</string>
+    <string name="s_deep_sleep">Sueño profundo</string>
     <string name="s_deep_sleep_capital">"SUEÑO
 PROFUNDO"</string>
     <string name="s_default_wallpaper_capital">FONDO DE PANTALLA PREDETERMINADO</string>
@@ -171,6 +177,7 @@ PROFUNDO"</string>
     <string name="s_detail_day_view">Vista diaria</string>
     <string name="s_detail_month_view">Vista Mensual</string>
     <string name="s_detail_week_view">Vista semanal</string>
+    <string name="s_dial">Esfera</string>
     <string name="s_disable_auto_sleep">Deshabilitar sueño automático</string>
     <string name="s_disable_do_not_disturb">Desactivar no molestar</string>
     <string name="s_disable_inactivity_alert">Desactivar alerta inactiva</string>
@@ -212,7 +219,7 @@ PROFUNDO"</string>
     <string name="s_fri">Vie</string>
     <string name="s_fri_capital">V</string>
     <string name="s_friday">Viernes</string>
-    <string name="s_ft_in">fit in</string>
+    <string name="s_ft_in">ft in</string>
     <string name="s_gender">Género</string>
     <string name="s_gender_capital">GÉNERO</string>
     <string name="s_goal_achieved">Objetivo alcanzado</string>
@@ -226,6 +233,7 @@ EMPAREJAMIENTO EXITOSO"</string>
     <string name="s_good_update_complete_capital">ACTUALIZACIÓN COMPLETA</string>
     <string name="s_h">h</string>
     <string name="s_heart_rate">Ritmo cardíaco</string>
+    <string name="s_heart_rate_c">Ritmo cardíaco</string>
     <string name="s_heart_rate_capital">RITMO CARDÍACO</string>
     <string name="s_heart_rate_max">El rango limite de su ritmo cardiaco es 220</string>
     <string name="s_heart_rate_min">El limite mas bajo de su ritmo cardiaco es 40</string>
@@ -264,6 +272,8 @@ clic en el botón configuración abajo"</string>
     <string name="s_light_device_text3">Presione el botón inferior de su ZeTime &amp;</string>
     <string name="s_light_device_text4">"
 haga clic en el botón de configuración a continuación"</string>
+    <string name="s_light_sleep">"Sueño
+ligero"</string>
     <string name="s_light_sleep_capital">"SUEÑO
 LIGERO"</string>
     <string name="s_loading">Cargando</string>
@@ -305,6 +315,7 @@ LIGERO"</string>
     <string name="s_monday">Lunes</string>
     <string name="s_monitoring_track">Monitor de seguimiento</string>
     <string name="s_month">Mes</string>
+    <string name="s_must_finish_sync_time">Calibre su ZeTime primero</string>
     <string name="s_must_input_new_password">Debe ingresar nueva contraseña</string>
     <string name="s_must_input_old_password">Debe introducir una contraseña antigua</string>
     <string name="s_must_input_repeated_password">Debe ingresar la contraseña repetida</string>
@@ -333,7 +344,7 @@ LIGERO"</string>
     <string name="s_open_bluetooth_tip">Empezar a emparejar</string>
     <string name="s_or_capital">O</string>
     <string name="s_otherfunction_close_ring">Por favor, apague modo de busqueda de su reloj MyKronoz</string>
-    <string name="s_oups_pairing_failed">"OOPS
+    <string name="s_oups_pairing_failed">"OPS!
 EL EMPAREJAMIENTO HA FALLADO"</string>
     <string name="s_oups_update_failed_capital">ERROR EN LA ACTUALIZACION</string>
     <string name="s_password">Contraseña</string>
@@ -354,6 +365,7 @@ en la pantalla del reloj"</string>
     <string name="s_preset_answers_capital">RESPUESTAS PREESTABLECIDAS</string>
     <string name="s_preset_sleep">Prestablecer sueño</string>
     <string name="s_preset_sleep_capital">PRESTABLECER SUEÑO</string>
+    <string name="s_preset_track">Pre-seleccionar rastreo</string>
     <string name="s_preset_track_capital">PRE-SELECCIONAR RASTREO</string>
     <string name="s_public_ble_disconnected">Bluetooth está desconectado</string>
     <string name="s_public_check_firmware">Check the firmware version</string>
@@ -425,9 +437,9 @@ correspondiente para avisarle
     <string name="s_reminders">Avisos</string>
     <string name="s_repeat_password">Repetir nueva contraseña</string>
     <string name="s_repeat_preset_answers">Repetir respuestas preestablecidas</string>
+    <string name="s_reset">Reinicializar</string>
     <string name="s_reset_capital">REINICIALIZAR</string>
     <string name="s_reset_my_password">REESTABLECER MI CONTRASEÑA</string>
-    <string name="s_reset_z">Reinicializar</string>
     <string name="s_reset_zetime">Reinicializar</string>
     <string name="s_s_capital">S</string>
     <string name="s_s_capital1">D</string>
@@ -489,7 +501,6 @@ METAS"</string>
     <string name="s_setting_my_profile_album">ÁLBUM</string>
     <string name="s_setting_my_profile_confirm_new_password">Repetir nueva contraseña</string>
     <string name="s_setting_my_profile_country">País/Región</string>
-    <string name="s_setting_my_profile_email">E-mail</string>
     <string name="s_setting_my_profile_old_password">Contrasena antigua</string>
     <string name="s_setting_my_profile_password">Contraseña</string>
     <string name="s_setting_my_profile_submit">ENVIAR</string>
@@ -497,7 +508,6 @@ METAS"</string>
     <string name="s_setting_notifications_calendar">Eventos</string>
     <string name="s_setting_notifications_call">Llamadas</string>
     <string name="s_setting_notifications_double_vibration">Vibracion doble</string>
-    <string name="s_setting_notifications_email">E-mail</string>
     <string name="s_setting_notifications_no_vibration">No vibracion</string>
     <string name="s_setting_notifications_single_vibration">Vibracion unica</string>
     <string name="s_setting_notifications_sms">SMS</string>
@@ -567,7 +577,6 @@ Descargue Ahora?"</string>
     <string name="s_title_edit">Editar</string>
     <string name="s_title_goal">Objetivos</string>
     <string name="s_title_heart_rate">Ritmo cardíaco</string>
-    <string name="s_title_inactivity_alert">Alerta de inactividadt</string>
     <string name="s_title_my_profile">Mi perfil</string>
     <string name="s_title_reset">Reinicializar</string>
     <string name="s_title_save">Guardar</string>
@@ -581,6 +590,7 @@ Descargue Ahora?"</string>
     <string name="s_tues">Mar</string>
     <string name="s_tuesday">Martes</string>
     <string name="s_unlock">Desbloqueado</string>
+    <string name="s_unlock_capital">DESBLOQUEADO</string>
     <string name="s_unlocked">Desbloqueado</string>
     <string name="s_unlocked_capital">DESBLOQUEADO</string>
     <string name="s_unpair">Desvincular</string>
@@ -617,7 +627,6 @@ DESPERTAR"</string>
     <string name="s_wheel_ok">Ok</string>
     <string name="s_widgets">Widgets</string>
     <string name="s_widgets_capital">WIDGETS</string>
-    <string name="s_wrong_email_or_password">Email o contraseña incorrecta</string>
     <string name="s_yes_capital">SI</string>
     <string name="s_yesterday">Ayer</string>
     <string name="s_yesterday_capital">AYER</string>

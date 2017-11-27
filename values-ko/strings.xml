@@ -59,6 +59,7 @@
     <string name="s_auto_time_sync_tip">סנכרן את השעון עם הטלפון</string>
     <string name="s_create_new_watch_face">새 시계 모드 만들기</string>
     <string name="s_default_wallpaper_capital">기본 배경 화면</string>
+    <string name="s_dial">다이얼</string>
     <string name="s_disable_do_not_disturb">방해 금지 해제</string>
     <string name="s_discard_capital">포기</string>
     <string name="s_display_capital">디스플레이</string>
@@ -66,6 +67,7 @@
     <string name="s_light_device_text3">ZeTime의 하단 버튼 누르기 &amp;</string>
     <string name="s_light_device_text4">"
 아래의 설정 버튼을 클릭하십시오."</string>
+    <string name="s_must_finish_sync_time">ZeTime 보정으로 시작하십시오.</string>
     <string name="s_photos">사진</string>
     <string name="s_photos_capital">사진</string>
     <string name="s_remember_password">비밀번호 기억하기</string>

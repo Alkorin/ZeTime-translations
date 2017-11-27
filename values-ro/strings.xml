@@ -51,6 +51,8 @@ Astfel, inginerii companiei dezvoltă în mod continuu dispozitive inovatoare, u
     <string name="s_about_us_learn_more">AFLAȚI MAI MULTE</string>
     <string name="s_account_has_exist">Această adresă de e-mail e deja utilizată</string>
     <string name="s_active_calories">Calorii active</string>
+    <string name="s_active_min">Minute activităȚi</string>
+    <string name="s_active_min_capital">MINUTE ACTIVITĂȚI</string>
     <string name="s_active_minutes_capital">MINUTE ACTIVITĂȚI</string>
     <string name="s_active_resting_calories">Calorii active + Calorii odihnă</string>
     <string name="s_activity">Activitate</string>
@@ -98,6 +100,7 @@ Astfel, inginerii companiei dezvoltă în mod continuu dispozitive inovatoare, u
     <string name="s_auto_time_hour_tip">Aliniază acul pentru oră, cu punctul roșu.</string>
     <string name="s_auto_time_min_tip">...acum aliniază acul pentru minut cu punctul roșu</string>
     <string name="s_auto_time_sync_tip">Sincronizează ceasul cu telefonul</string>
+    <string name="s_awake">Treaz</string>
     <string name="s_awake_capital">TREAZ</string>
     <string name="s_awake_time">Ore treaz</string>
     <string name="s_awake_time_capital">ORE TREAZ</string>
@@ -107,6 +110,7 @@ CULCARE"</string>
     <string name="s_big">Mare</string>
     <string name="s_bills">Facturi</string>
     <string name="s_bills_capital">FACTURI</string>
+    <string name="s_birthdate_capital">ZI DE NAșTERE</string>
     <string name="s_birthday">Zi de naștere</string>
     <string name="s_birthday_capital">ZI DE NAșTERE</string>
     <string name="s_bluetooth_not_supported">Bluetooth nu este acceptat.</string>
@@ -120,7 +124,7 @@ CULCARE"</string>
     <string name="s_camera_capital">CAMERĂ</string>
     <string name="s_cancel">Anulare</string>
     <string name="s_cannot_see_it">Nu se vede</string>
-    <string name="s_cannot_see_it_capital">ZeTime nu a fost găsit?</string>
+    <string name="s_cannot_see_it_capital">ZeTime NU A FOST GĂSIT?</string>
     <string name="s_choose_your_avatar">Alege-ți avatarul</string>
     <string name="s_choose_your_avatar_capital">ALEGE-țI AVATARUL</string>
     <string name="s_cm">cm</string>
@@ -138,11 +142,14 @@ CULCARE"</string>
     <string name="s_create_my_account">Creează-mi contul</string>
     <string name="s_create_my_account_capital">CREEAZĂ-MI CONTUL</string>
     <string name="s_create_new_watch_face">Creează un cadran de ceas nou</string>
+    <string name="s_create_your_watch_face">Creează cadranul ceasului tău</string>
+    <string name="s_create_your_watch_face_capital">CREEAZĂ CADRANUL CEASULUI TĂU</string>
     <string name="s_custom_repeat">Repetare personalizată</string>
     <string name="s_custom_repeat_capital">REPETARE PERSONALIZATĂ</string>
     <string name="s_daily_goal_capital">OBIECTIV ZILNIC</string>
     <string name="s_daily_goals">Obiectiv zilnic</string>
     <string name="s_dashboard">Tablou de bord</string>
+    <string name="s_date">Data</string>
     <string name="s_date_capital">DATA</string>
     <string name="s_date_format">Format dată</string>
     <string name="s_date_format_capital">FORMAT DATĂ</string>
@@ -152,12 +159,14 @@ CULCARE"</string>
     <string name="s_date_format_ymd">AA/LL/ZZ</string>
     <string name="s_december_full_capital">DECEMBRIE</string>
     <string name="s_deep_capital">ADÂNC</string>
+    <string name="s_deep_sleep">Somn adânc</string>
     <string name="s_deep_sleep_capital">SOMN ADÂNC</string>
     <string name="s_default_wallpaper_capital">IMAGINE DE FUNDAL IMPLICITĂ</string>
     <string name="s_description">Descriere</string>
     <string name="s_detail_day_view">Vizualizare pe zi</string>
     <string name="s_detail_month_view">Vizualizare pe lună</string>
     <string name="s_detail_week_view">Vizualizare pe săptămână</string>
+    <string name="s_dial">cadran</string>
     <string name="s_disable_auto_sleep">Dezactivare auto somn</string>
     <string name="s_disable_do_not_disturb">Dezactivare Nu deranja</string>
     <string name="s_disable_inactivity_alert">Dezactivare alertă de inactivitate</string>
@@ -198,7 +207,7 @@ CULCARE"</string>
     <string name="s_fri">Vin</string>
     <string name="s_fri_capital">V</string>
     <string name="s_friday">Vineri</string>
-    <string name="s_ft_in">fit in</string>
+    <string name="s_ft_in">ft in</string>
     <string name="s_gender">Gen</string>
     <string name="s_gender_capital">GEN</string>
     <string name="s_goal_achieved">Obiectiv atins</string>
@@ -217,6 +226,7 @@ Actualizare finalizată"</string>
     <string name="s_hands_running">Acele merg</string>
     <string name="s_hands_running_activity_tracking">Acele merg + Urmărire activitate</string>
     <string name="s_heart_rate">Frecvență cardiacă</string>
+    <string name="s_heart_rate_c">Frecvență cardiacă</string>
     <string name="s_heart_rate_capital">FRECVENțĂ CARDIACĂ</string>
     <string name="s_heart_rate_max">Limita intervalului pentru puls este 220</string>
     <string name="s_heart_rate_min">Limita inferioară pentru puls este 40</string>
@@ -257,6 +267,7 @@ clic pe butonul de configurare de mai jos"</string>
     <string name="s_light_device_text3">Apăsați butonul inferior al versiunii ZeTime &amp;</string>
     <string name="s_light_device_text4">"
 faceți clic pe butonul de configurare de mai jos"</string>
+    <string name="s_light_sleep">Somn ușor</string>
     <string name="s_light_sleep_capital">SOMN UșOR</string>
     <string name="s_loading">Încărcare</string>
     <string name="s_locked_capital">BLOCAT</string>
@@ -292,6 +303,7 @@ faceți clic pe butonul de configurare de mai jos"</string>
     <string name="s_monday">Luni</string>
     <string name="s_monitoring_track">URMĂRIRE MONITORIZARE</string>
     <string name="s_month">Lună</string>
+    <string name="s_must_finish_sync_time">Începeți prin calibrarea versiunii ZeTime</string>
     <string name="s_must_input_new_password">Trebuie să introduci parola nouă</string>
     <string name="s_must_input_old_password">Trebuie să introduci parola veche</string>
     <string name="s_must_input_repeated_password">Trebuie să introduci parola repetată</string>
@@ -327,7 +339,7 @@ faceți clic pe butonul de configurare de mai jos"</string>
     <string name="s_open_bluetooth_tip">Activează Bluetooth pe dispozitivul tău Android</string>
     <string name="s_or_capital">SAU</string>
     <string name="s_otherfunction_close_ring">Dezactivează modul de căutare pe ceasul Mykronoz</string>
-    <string name="s_oups_pairing_failed">"UPS
+    <string name="s_oups_pairing_failed">"UPS!
 ASOCIERE NEREUșITĂ"</string>
     <string name="s_oups_update_failed_capital">"Ups 
 Actualizare nereușită!"</string>
@@ -350,6 +362,7 @@ Actualizare nereușită!"</string>
     <string name="s_preset_answers_capital">RĂSPUNS PRESETAT</string>
     <string name="s_preset_sleep">Presetare somn</string>
     <string name="s_preset_sleep_capital">PRESETARE SOMN</string>
+    <string name="s_preset_track">Presetare urmărire</string>
     <string name="s_preset_track_capital">PRESETARE URMĂRIRE</string>
     <string name="s_public_ble_disconnected">Bluetooth este deconectat</string>
     <string name="s_public_force_update_tip">E necesară actualizare firmware nouă</string>
@@ -403,9 +416,9 @@ Actualizare nereușită!"</string>
     <string name="s_reminders">Mementouri</string>
     <string name="s_repeat_password">Repetă parola nouă</string>
     <string name="s_repeat_preset_answers">Repetare răspunsuri presetate</string>
+    <string name="s_reset">Resetare</string>
     <string name="s_reset_capital">RESETARE</string>
     <string name="s_reset_my_password">RESETARE PAROLĂ</string>
-    <string name="s_reset_z">Resetare</string>
     <string name="s_reset_zetime">Resetare ZeTime</string>
     <string name="s_s_capital">S</string>
     <string name="s_s_capital1">D</string>
@@ -448,14 +461,12 @@ Actualizare nereușită!"</string>
     <string name="s_setting_last_sync">Ultima sincronizare</string>
     <string name="s_setting_my_profile_album">ALBUM</string>
     <string name="s_setting_my_profile_country">Ţara/Regiunea</string>
-    <string name="s_setting_my_profile_email">E-Mail</string>
     <string name="s_setting_my_profile_old_password">Parola veche</string>
     <string name="s_setting_my_profile_password">Parolă</string>
     <string name="s_setting_my_profile_username_length_tip">NUME MAI LUNG DECÂT 16 BIȚI CARACTERE CHINEZEȘTI SAU 32 BIŢI CARACTERE LATINE</string>
     <string name="s_setting_notifications_calendar">Eveniment Calendar</string>
     <string name="s_setting_notifications_call">Apeluri</string>
     <string name="s_setting_notifications_double_vibration">Două vibrații</string>
-    <string name="s_setting_notifications_email">E-Mail</string>
     <string name="s_setting_notifications_no_vibration">Fără vibrație</string>
     <string name="s_setting_notifications_single_vibration">O singură vibrație</string>
     <string name="s_setting_notifications_sms">Sms</string>
@@ -501,6 +512,7 @@ Actualizare nereușită!"</string>
     <string name="s_t_capital">M</string>
     <string name="s_t_capital1">J</string>
     <string name="s_take_a_new_picture">Fă o fotografie nouă</string>
+    <string name="s_take_a_new_picture_capital">FĂ O FOTOGRAFIE NOUĂ</string>
     <string name="s_temperature">℃/℉</string>
     <string name="s_th_capital">J</string>
     <string name="s_the_old_password_is_incorrect">Parola veche e eronată.</string>
@@ -522,7 +534,6 @@ Actualizare nereușită!"</string>
     <string name="s_title_edit">Editare</string>
     <string name="s_title_goal">Obiectiv</string>
     <string name="s_title_heart_rate">Frecvență cardiacă</string>
-    <string name="s_title_inactivity_alert">Alertă de inactivitate</string>
     <string name="s_title_my_profile">Profilul meu</string>
     <string name="s_title_reset">Resetare</string>
     <string name="s_title_save">Salvează</string>
@@ -536,6 +547,7 @@ Actualizare nereușită!"</string>
     <string name="s_tues">Mar</string>
     <string name="s_tuesday">Marți</string>
     <string name="s_unlock">Deblocare</string>
+    <string name="s_unlock_capital">DEBLOCARE</string>
     <string name="s_unlocked">Deblocare</string>
     <string name="s_unlocked_capital">DEBLOCAT</string>
     <string name="s_unpair">Deconectare</string>
@@ -556,6 +568,8 @@ TREZIRE"</string>
     <string name="s_wake_up_time_capital">ORĂ TREZIRE</string>
     <string name="s_wallpaper">Imagine de fundal</string>
     <string name="s_watch_face">Cadrane ceas</string>
+    <string name="s_watch_face_home_page_tip2">TRAGE ȘI APLICĂ CADRANUL DE CEAS DORIT PENTRU A-L STOCA ÎN ZETIME</string>
+    <string name="s_watch_face_home_page_tip2_capital">TRAGE ȘI APLICĂ CADRANUL DE CEAS DORIT PENTRU A-L STOCA ÎN ZETIME</string>
     <string name="s_watch_faces_capital">CADRANE CEAS</string>
     <string name="s_watch_selection_capital">SELECțIE CEAS</string>
     <string name="s_wearing_habits">Obiceiuri de purtare</string>
@@ -572,7 +586,6 @@ TREZIRE"</string>
     <string name="s_wheel_ok">OK</string>
     <string name="s_widgets">Widget-uri</string>
     <string name="s_widgets_capital">WIDGET-URI</string>
-    <string name="s_wrong_email_or_password">e-mail sau parolă greșite.</string>
     <string name="s_yes_capital">DA</string>
     <string name="s_yesterday">Ieri</string>
     <string name="s_yesterday_capital">IERI</string>

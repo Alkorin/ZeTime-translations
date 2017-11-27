@@ -104,6 +104,7 @@ Mobil teknolojiye basit ve özgün bir yaklaşımı olan MyKronoz'un amacı, çe
     <string name="s_anti_lost">Kaybolma Önleyici</string>
     <string name="s_april_full_capital">NISAN</string>
     <string name="s_august_full_capital">AĞUSTOS</string>
+    <string name="s_awake">Uyanik</string>
     <string name="s_awake_capital">UYANIK</string>
     <string name="s_awake_time">Uyanik geçirilen süre</string>
     <string name="s_awake_time_capital">UYANIK GEÇIRILEN SÜRE</string>
@@ -112,6 +113,7 @@ Mobil teknolojiye basit ve özgün bir yaklaşımı olan MyKronoz'un amacı, çe
 ZAMANI"</string>
     <string name="s_bills">Faturalar</string>
     <string name="s_bills_capital">FATURALAR</string>
+    <string name="s_birthdate_capital">DOĞUMGÜNÜ</string>
     <string name="s_birthday">Doğumgünü</string>
     <string name="s_birthday_capital">DOĞUMGÜNÜ</string>
     <string name="s_bluetooth_not_supported">Bluetooth desteklenmemektedir.</string>
@@ -146,6 +148,7 @@ ZAMANI"</string>
     <string name="s_daily_goal_capital">GÜNLÜK HEDEF</string>
     <string name="s_daily_goals">Günlük hedef</string>
     <string name="s_dashboard">Gösterge Paneli</string>
+    <string name="s_date">Tarih</string>
     <string name="s_date_capital">TARIH</string>
     <string name="s_date_format">Tarih Biçimi</string>
     <string name="s_date_format_capital">TARIH BIÇIMI</string>
@@ -155,6 +158,7 @@ ZAMANI"</string>
     <string name="s_date_format_ymd">YY/AA/GG</string>
     <string name="s_december_full_capital">ARALIK</string>
     <string name="s_deep_capital">DERİN</string>
+    <string name="s_deep_sleep">Derin uyku</string>
     <string name="s_deep_sleep_capital">DERIN UYKU</string>
     <string name="s_default_wallpaper_capital">VARSAYILAN DUVAR KAĞIDI</string>
     <string name="s_description">Açıklama</string>
@@ -201,7 +205,7 @@ ZAMANI"</string>
     <string name="s_fri">Cum</string>
     <string name="s_fri_capital">CUM</string>
     <string name="s_friday">Cuma</string>
-    <string name="s_ft_in">fit in</string>
+    <string name="s_ft_in">ft in</string>
     <string name="s_gender">Cinsiyet</string>
     <string name="s_gender_capital">CINSIYET</string>
     <string name="s_goal_achieved">Hedefe Ulaşıldı</string>
@@ -216,6 +220,7 @@ Eşleşme başarılı"</string>
 Güncelleme Tamamlandı"</string>
     <string name="s_h">h</string>
     <string name="s_heart_rate">Kalp Atışı</string>
+    <string name="s_heart_rate_c">Kalp Atışı</string>
     <string name="s_heart_rate_capital">KALP ATIŞI</string>
     <string name="s_heart_rate_max">"Nabız değerinin aralık sınırı 220'dir"</string>
     <string name="s_heart_rate_min">"Nabız değerinin alt sınırı 40'dir"</string>
@@ -252,6 +257,7 @@ Güncelleme Tamamlandı"</string>
 aşağidaki ayarla düğmesine dokunun"</string>
     <string name="s_light_device_text4">"
 aşağıdaki kurulum düğmesine tıklayın"</string>
+    <string name="s_light_sleep">hafif uyku</string>
     <string name="s_light_sleep_capital">HAFIF UYKU</string>
     <string name="s_loading">Yüklüyor</string>
     <string name="s_locked_capital">KİLİTLİ</string>
@@ -334,6 +340,7 @@ GÜNCELLEME BAŞARISIZ!"</string>
     <string name="s_preset_answers_capital">ÖNCEDEN AYARLANMIŞ YANITLAR</string>
     <string name="s_preset_sleep">Uyku Ön Ayarı</string>
     <string name="s_preset_sleep_capital">UYKU ÖN AYARI</string>
+    <string name="s_preset_track">Yolu önceden kur</string>
     <string name="s_preset_track_capital">YOLU ÖNCEDEN KUR</string>
     <string name="s_public_ble_disconnected">Bluetooth bağlantısı kesildi</string>
     <string name="s_public_full_month_April">Nisan</string>
@@ -386,9 +393,9 @@ GÜNCELLEME BAŞARISIZ!"</string>
     <string name="s_reminders">Hatırlatmalar</string>
     <string name="s_repeat_password">Yeni parolayı tekrarla</string>
     <string name="s_repeat_preset_answers">Önceden ayarlanmış yanıtları tekrarlayın</string>
+    <string name="s_reset">Sifirla</string>
     <string name="s_reset_capital">SIFIRLA</string>
     <string name="s_reset_my_password">PAROLAMI SIFIRLA</string>
-    <string name="s_reset_z">Sifirla</string>
     <string name="s_reset_zetime">Sifirla ZeTime</string>
     <string name="s_s_capital">C</string>
     <string name="s_s_capital1">P</string>
@@ -428,14 +435,12 @@ GÜNCELLEME BAŞARISIZ!"</string>
     <string name="s_setting_last_sync">Son senkronizasyon</string>
     <string name="s_setting_my_profile_album">ALBÜM</string>
     <string name="s_setting_my_profile_country">Ülke/Bölge</string>
-    <string name="s_setting_my_profile_email">E-posta</string>
     <string name="s_setting_my_profile_old_password">Eski Parola</string>
     <string name="s_setting_my_profile_password">Parola</string>
     <string name="s_setting_my_profile_username_length_tip">İSİM 16 BİT ÇİNCE KARAKTERDEN VEYA 32 BİT İNGİLİZCE KARAKTERDEN DAHA FAZLA</string>
     <string name="s_setting_notifications_calendar">Takvim etkinliği</string>
     <string name="s_setting_notifications_call">Çağrilar</string>
     <string name="s_setting_notifications_double_vibration">Çift titreşim</string>
-    <string name="s_setting_notifications_email">E-posta</string>
     <string name="s_setting_notifications_no_vibration">Titreşim yok</string>
     <string name="s_setting_notifications_single_vibration">Tek titreşim</string>
     <string name="s_setting_notifications_sms">SMS</string>
@@ -495,7 +500,6 @@ GÜNCELLEME BAŞARISIZ!"</string>
     <string name="s_title_edit">Düzenle</string>
     <string name="s_title_goal">Hedefler</string>
     <string name="s_title_heart_rate">Kalp Atışı</string>
-    <string name="s_title_inactivity_alert">Faaliyetsiz Kalma Uyarısı</string>
     <string name="s_title_my_profile">Profilim</string>
     <string name="s_title_reset">Sifirla</string>
     <string name="s_title_save">Kaydet</string>
@@ -509,6 +513,7 @@ GÜNCELLEME BAŞARISIZ!"</string>
     <string name="s_tues">Sal</string>
     <string name="s_tuesday">Salı</string>
     <string name="s_unlock">Kilit kaldirildi</string>
+    <string name="s_unlock_capital">KILIT KALDIRILDI</string>
     <string name="s_unlocked">Kilit kaldirildi</string>
     <string name="s_unlocked_capital">KİLİT KALDIRILDI</string>
     <string name="s_unpair">Eşleştirmeyi sonlandir</string>
@@ -543,7 +548,6 @@ ZAMANI"</string>
     <string name="s_weight">Kilo</string>
     <string name="s_weight_capital">KILO</string>
     <string name="s_wheel_ok">Tamam</string>
-    <string name="s_wrong_email_or_password">kullanıcı adı veya parola yanlış.</string>
     <string name="s_yes_capital">EVET</string>
     <string name="s_yesterday">Dün</string>
     <string name="s_yesterday_capital">DÜN</string>

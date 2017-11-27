@@ -188,10 +188,10 @@ WithMyKronoz的目標獨特而簡單：以多樣化的智能穿戴裝置滿足�
     <string name="s_first_name">名字</string>
     <string name="s_forgot_password">忘記您的密碼？</string>
     <string name="s_frequency">頻次</string>
-    <string name="s_fri">五</string>
+    <string name="s_fri">周五</string>
     <string name="s_fri_capital">五</string>
     <string name="s_friday">星期五</string>
-    <string name="s_ft_in">fit in</string>
+    <string name="s_ft_in">ft in</string>
     <string name="s_gender">性別</string>
     <string name="s_goal_capital">目標</string>
     <string name="s_goal_sleep">睡覺</string>
@@ -267,7 +267,7 @@ WithMyKronoz的目標獨特而簡單：以多樣化的智能穿戴裝置滿足�
     <string name="s_min_min">最小</string>
     <string name="s_minute_hand_capital">分針</string>
     <string name="s_miss_calls">未接來電</string>
-    <string name="s_mon">一</string>
+    <string name="s_mon">周一</string>
     <string name="s_mon_capital">一</string>
     <string name="s_monday">星期一</string>
     <string name="s_monitoring_track">監控跟蹤</string>
@@ -387,12 +387,13 @@ ZeFit⁴會輕輕震動並顯示
     <string name="s_reminders">提醒</string>
     <string name="s_repeat_password">重覆新密碼</string>
     <string name="s_repeat_preset_answers">重複預設回答</string>
+    <string name="s_reset">重置</string>
     <string name="s_reset_capital">出廠設置</string>
     <string name="s_reset_my_password">設置密碼</string>
     <string name="s_s_capital">六</string>
     <string name="s_s_capital1">日</string>
     <string name="s_sa_capital">六</string>
-    <string name="s_sat">六</string>
+    <string name="s_sat">周六</string>
     <string name="s_sat_capital">六</string>
     <string name="s_saturday">星期六</string>
     <string name="s_save_capital">保存</string>
@@ -443,7 +444,6 @@ ZeFit⁴會輕輕震動並顯示
     <string name="s_setting_my_profile_album">ALBUM</string>
     <string name="s_setting_my_profile_confirm_new_password">確認新密碼</string>
     <string name="s_setting_my_profile_country">國家/地區</string>
-    <string name="s_setting_my_profile_email">電子郵件</string>
     <string name="s_setting_my_profile_old_password">舊密碼</string>
     <string name="s_setting_my_profile_password">密碼</string>
     <string name="s_setting_my_profile_submit">提交</string>
@@ -451,7 +451,6 @@ ZeFit⁴會輕輕震動並顯示
     <string name="s_setting_notifications_calendar">日曆事件</string>
     <string name="s_setting_notifications_call">來電</string>
     <string name="s_setting_notifications_double_vibration">振動兩次</string>
-    <string name="s_setting_notifications_email">電子郵件</string>
     <string name="s_setting_notifications_no_vibration">不振動</string>
     <string name="s_setting_notifications_single_vibration">振動一次</string>
     <string name="s_setting_notifications_sms">訊息</string>
@@ -490,7 +489,7 @@ ZeFit⁴會輕輕震動並顯示
     <string name="s_steps_lower">步</string>
     <string name="s_su_capital">日</string>
     <string name="s_successful">成功</string>
-    <string name="s_sun">日</string>
+    <string name="s_sun">周日</string>
     <string name="s_sun_capital">日</string>
     <string name="s_sunday">星期日</string>
     <string name="s_synchronize_capital">同步</string>
@@ -499,7 +498,7 @@ ZeFit⁴會輕輕震動並顯示
     <string name="s_temperature">℃/℉</string>
     <string name="s_th_capital">四</string>
     <string name="s_the_old_password_is_incorrect">旧密碼錯誤。</string>
-    <string name="s_thu">四</string>
+    <string name="s_thu">周四</string>
     <string name="s_thur_capital">四</string>
     <string name="s_thursday">星期四</string>
     <string name="s_thus_capital">二</string>
@@ -516,7 +515,6 @@ ZeFit⁴會輕輕震動並顯示
     <string name="s_title_edit">編輯</string>
     <string name="s_title_goal">目標</string>
     <string name="s_title_heart_rate">心率</string>
-    <string name="s_title_inactivity_alert">Inactivity Alert</string>
     <string name="s_title_my_profile">個人設定</string>
     <string name="s_title_reset">出廠設置</string>
     <string name="s_title_save">保存</string>
@@ -526,7 +524,7 @@ ZeFit⁴會輕輕震動並顯示
     <string name="s_tracking_every">跟蹤間隔</string>
     <string name="s_try_again_capital">重試</string>
     <string name="s_tu_capital">二</string>
-    <string name="s_tues">二</string>
+    <string name="s_tues">周二</string>
     <string name="s_tuesday">星期二</string>
     <string name="s_unlocked_capital">已解鎖</string>
     <string name="s_unpair">解綁</string>
@@ -545,13 +543,12 @@ ZeFit⁴會輕輕震動並顯示
     <string name="s_weather">天氣</string>
     <string name="s_weather_capital">天氣</string>
     <string name="s_weather_default_city">瑞士日內瓦</string>
-    <string name="s_wed">三</string>
+    <string name="s_wed">周三</string>
     <string name="s_wed_capital">三</string>
     <string name="s_wednesday">星期三</string>
     <string name="s_week">周</string>
     <string name="s_weight">體重</string>
     <string name="s_wheel_ok">是</string>
-    <string name="s_wrong_email_or_password">電子郵件或密碼錯誤。</string>
     <string name="s_yes_capital">是</string>
     <string name="s_yesterday">昨天</string>
     <string name="s_yesterday_capital">昨天</string>
@@ -559,5 +556,5 @@ ZeFit⁴會輕輕震動並顯示
     <string name="s_zefit4_welcome_2">優雅與溡尙的設計</string>
     <string name="s_zefit4_welcome_3">時刻監控着您的日常生活</string>
     <string name="s_zefit4_welcome_4">可更換的多色彩手錶帶系列</string>
-    <string name="s_reset">重置</string>
+    <string name="s_zetime_is_running">ZeTime 執行中</string>
 </resources>

@@ -66,6 +66,8 @@
     <string name="s_about_us_learn_more">SAPERNE DI PIÙ</string>
     <string name="s_account_has_exist">Indirizzo e-mail già in uso</string>
     <string name="s_active_calories">Calorie attive</string>
+    <string name="s_active_min">Attività</string>
+    <string name="s_active_min_capital">ATTIVITÀ</string>
     <string name="s_active_minutes">Minuti attività</string>
     <string name="s_active_minutes_capital">MINUTI ATTIVITÀ</string>
     <string name="s_active_resting_calories">Calorie attive + Calorie a riposo</string>
@@ -105,7 +107,7 @@
     <string name="s_add_sleep_awake_later_bed">Il periodo da sveglio deve essere successivo al sonno</string>
     <string name="s_add_sleep_bed_earlier_awake">Il periodo del sonno deve essere antecedente al periodo da sveglio</string>
     <string name="s_add_sleep_capital">AGGIUNGI SONNO</string>
-    <string name="s_advanced_setting">Impostazioni Avanzate</string>
+    <string name="s_advanced_setting">Impostazioni avanzate</string>
     <string name="s_advanced_settings_capital">IMPOSTAZIONI AVANZATE</string>
     <string name="s_after">Dopo</string>
     <string name="s_after_capital">DOPO</string>
@@ -114,14 +116,16 @@
     <string name="s_alert_type_capital">TIPO DI ALLARME</string>
     <string name="s_all_set">Configurazione terminata</string>
     <string name="s_all_set_capital">CONFIGURAZIONE TERMINATA</string>
-    <string name="s_always_sync">Sincronizzazione sempre attiva</string>
+    <string name="s_always_sync">Sincronizzazione continua</string>
     <string name="s_anti_lost">Antismarrimento</string>
     <string name="s_april_full_capital">APRIL</string>
     <string name="s_august_full_capital">AGOSTO</string>
-    <string name="s_auto_time_hour_tip">Allinea la lancetta delle ore con il punto rosso</string>
-    <string name="s_auto_time_min_tip">...e ora quelle dei minuti</string>
+    <string name="s_auto_sleep">Sonno automatico</string>
+    <string name="s_auto_time_hour_tip">"Allineare l'ago piccolo sul punto rosso"</string>
+    <string name="s_auto_time_min_tip">...ora allinea il grosso ago sul punto rosso</string>
     <string name="s_auto_time_sync_tip">"Sincronizza l'orologio con il telefono"</string>
     <string name="s_auto_track">monitoraggio automatico</string>
+    <string name="s_awake">Sveglia</string>
     <string name="s_awake_capital">SVEGLIA</string>
     <string name="s_awake_time">Ore sveglio</string>
     <string name="s_awake_time_capital">ORE SVEGLIO</string>
@@ -131,6 +135,7 @@ LETTO"</string>
     <string name="s_big">Grande</string>
     <string name="s_bills">Conti</string>
     <string name="s_bills_capital">CONTI</string>
+    <string name="s_birthdate_capital">DATA DI NASCITA</string>
     <string name="s_birthday">Data di nascita</string>
     <string name="s_birthday_capital">DATA DI NASCITA</string>
     <string name="s_bluetooth_not_supported">Bluetooth non supportato</string>
@@ -139,8 +144,8 @@ LETTO"</string>
     <string name="s_calibration_capital">CALIBRAZIONE</string>
     <string name="s_calories">Calorie</string>
     <string name="s_calories_capital">CALORIES</string>
-    <string name="s_calories_type">Tipo de calorie</string>
-    <string name="s_calories_type_capital">TIPO DE CALORIE</string>
+    <string name="s_calories_type">Tipo di calorie</string>
+    <string name="s_calories_type_capital">TIPO DI CALORIE</string>
     <string name="s_camera_capital">MACCHINA TOTOGRAFIA</string>
     <string name="s_cancel">Annulla</string>
     <string name="s_cannot_see_it">Impossibile rilevare il dispositivo?</string>
@@ -162,12 +167,15 @@ LETTO"</string>
     <string name="s_create_my_account">Creare il tuo profilo</string>
     <string name="s_create_my_account_capital">CREARE IL TUO PROFILO</string>
     <string name="s_create_new_watch_face">Crea un nuovo quadrante</string>
+    <string name="s_create_your_watch_face">Crea il tuo quadrante</string>
+    <string name="s_create_your_watch_face_capital">CREA IL TUO QUADRANTE</string>
     <string name="s_custom_repeat">Ripetizione personalizzata</string>
     <string name="s_custom_repeat_capital">RIPETIZIONE PERSONALIZZATA</string>
     <string name="s_daily_goal_capital">OBIETTIVO GIORNALIERO</string>
     <string name="s_daily_goals">Obiettivo giornaliero</string>
     <string name="s_dashboard">IL Quadrante</string>
-    <string name="s_date_capital">DATE</string>
+    <string name="s_date">Data</string>
+    <string name="s_date_capital">DATA</string>
     <string name="s_date_format">Formato data</string>
     <string name="s_date_format_capital">FORMATO DATA</string>
     <string name="s_date_format_dmy">GG/MM/AA</string>
@@ -176,6 +184,7 @@ LETTO"</string>
     <string name="s_date_format_ymd">AA/MM/GG</string>
     <string name="s_december_full_capital">DICEMBRE</string>
     <string name="s_deep_capital">PROFONDO</string>
+    <string name="s_deep_sleep">Sonno profondo</string>
     <string name="s_deep_sleep_capital">"SONNO
 PROFONDO"</string>
     <string name="s_default_wallpaper_capital">SFONDO DI DEFAULT</string>
@@ -183,12 +192,13 @@ PROFONDO"</string>
     <string name="s_detail_day_view">Vista giornaliera</string>
     <string name="s_detail_month_view">Vista mensile</string>
     <string name="s_detail_week_view">Vista settimanale</string>
-    <string name="s_disable_auto_sleep">Disattiva modalità Sonno automatica</string>
+    <string name="s_dial">Comporre</string>
+    <string name="s_disable_auto_sleep">Disattiva Sonno automatico</string>
     <string name="s_disable_do_not_disturb">Disattivare non disturbare</string>
     <string name="s_disable_inactivity_alert">Disabilita allerta di inattività</string>
-    <string name="s_disable_left_handy_mode">disattiva modalità mancino</string>
+    <string name="s_disable_left_handy_mode">Disattiva modalità mancino</string>
     <string name="s_discard_capital">SCARTARE</string>
-    <string name="s_display_capital">DISPLAY</string>
+    <string name="s_display_capital">SCHERMO</string>
     <string name="s_distance">Distanza</string>
     <string name="s_distance_capital">DISTANZA</string>
     <string name="s_do_not_disturb">Non disturbare</string>
@@ -199,10 +209,10 @@ PROFONDO"</string>
     <string name="s_duration_capital">DURATA</string>
     <string name="s_eat">Mangiare</string>
     <string name="s_eat_capital">MANGIARE</string>
-    <string name="s_email">E-Mail</string>
+    <string name="s_email">E-mail</string>
     <string name="s_email_null">Immettere il nome utente</string>
     <string name="s_email_wrong">Formato e-mail errato</string>
-    <string name="s_enable_auto_sleep">Attiva modalità Sonno automatica</string>
+    <string name="s_enable_auto_sleep">Attiva sonno automatico</string>
     <string name="s_enable_bluetooth_tip_1">Attivare il Bluetooth sul dispositivo Android e assicurati che</string>
     <string name="s_enable_bluetooth_tip_2">ZeTime sia acceso e nelle vicinanze</string>
     <string name="s_enable_do_not_disturb">Attivare non disturbare</string>
@@ -224,7 +234,7 @@ PROFONDO"</string>
     <string name="s_fri">Ven</string>
     <string name="s_fri_capital">VEN</string>
     <string name="s_friday">Venerdi</string>
-    <string name="s_ft_in">fit in</string>
+    <string name="s_ft_in">ft in</string>
     <string name="s_gender">Genere</string>
     <string name="s_gender_capital">GENERE</string>
     <string name="s_goal_achieved">Obiettivo raggiunto</string>
@@ -243,6 +253,7 @@ AGGIORNAMENTO COMPLETATO"</string>
     <string name="s_hands_running">Lancette</string>
     <string name="s_hands_running_activity_tracking">Lancette + Rilevamento attività</string>
     <string name="s_heart_rate">Frequenza cardiaca</string>
+    <string name="s_heart_rate_c">Frequenza cardiaca</string>
     <string name="s_heart_rate_capital">FREQUENZA CARDIACA</string>
     <string name="s_heart_rate_max">Il valore dell’intervallo limite del tuo ritmo cardiaco è 220</string>
     <string name="s_heart_rate_min">Il valore dell’intervallo minimo del tuo ritmo cardiaco è 40</string>
@@ -259,8 +270,8 @@ AGGIORNAMENTO COMPLETATO"</string>
     <string name="s_hour_hand_capital">LANCETTA DELLE ORE</string>
     <string name="s_hours_capital">ORE</string>
     <string name="s_hours_lower">ore</string>
-    <string name="s_inactivity_alert">Pista predefinita</string>
-    <string name="s_inactivity_alert_capital">PISTA PREDEFINITA</string>
+    <string name="s_inactivity_alert">"Avviso d'inattività"</string>
+    <string name="s_inactivity_alert_capital">"AVVISO D'INATTIVITÀ"</string>
     <string name="s_insert_your">Inserisci il tuo</string>
     <string name="s_january_full_capital">GENNAIO</string>
     <string name="s_july_full_capital">LUGLIO</string>
@@ -273,7 +284,7 @@ AGGIORNAMENTO COMPLETATO"</string>
     <string name="s_last_name">Cognome</string>
     <string name="s_last_name_capital">COGNOME</string>
     <string name="s_lbs">lbs</string>
-    <string name="s_left_handy_mode">modalità mancino</string>
+    <string name="s_left_handy_mode">Modalità mancino</string>
     <string name="s_left_handy_mode_capital">MODALITÀ MANCINO</string>
     <string name="s_light_capital">LEGGERO</string>
     <string name="s_light_device">Per favore accendi lo schermo del tuo dispositivo</string>
@@ -283,6 +294,7 @@ il pulsante della configurazione qui sotto"</string>
     <string name="s_light_device_text3">Premere il pulsante inferiore del vostro ZeTime &amp;</string>
     <string name="s_light_device_text4">"
 fai clic sul pulsante di configurazione qui sotto"</string>
+    <string name="s_light_sleep">Sonno leggero</string>
     <string name="s_light_sleep_capital">"SONNO
 LEGGERO"</string>
     <string name="s_loading">Caricamento</string>
@@ -322,8 +334,9 @@ LEGGERO"</string>
     <string name="s_mon">Lun</string>
     <string name="s_mon_capital">LUN</string>
     <string name="s_monday">Lunedi</string>
-    <string name="s_monitoring_track">Tracciamento dei percorsi</string>
+    <string name="s_monitoring_track">Analisi automatica</string>
     <string name="s_month">Mese</string>
+    <string name="s_must_finish_sync_time">Si prega di calibrare il primo ZeTime</string>
     <string name="s_must_input_new_password">Inserire nuova password</string>
     <string name="s_must_input_old_password">Inserire vecchia password</string>
     <string name="s_must_input_repeated_password">Reinserire nuova password</string>
@@ -339,7 +352,7 @@ LEGGERO"</string>
     <string name="s_new_passwrod_not_same_repeat_password">La password inserita è differente dalla precedente</string>
     <string name="s_new_record">Nuovo record</string>
     <string name="s_new_record_capital">NUOVO RECORD</string>
-    <string name="s_new_update_tip">Nuovi aggiornamenti disponibili</string>
+    <string name="s_new_update_tip">Nuovo aggiornamento disponibile</string>
     <string name="s_next">Avanti</string>
     <string name="s_next_capital">AVANTI</string>
     <string name="s_night_mode">Modalità notturna</string>
@@ -350,17 +363,17 @@ LEGGERO"</string>
     <string name="s_not_obtain_weather">Le previsioni del tempo sono momentaneamente indisponibili. Si prega di provare più tardi</string>
     <string name="s_notifications">Notifiche</string>
     <string name="s_notifications_capital">NOTIFICHE</string>
-    <string name="s_notifications_text_size">Taglia testo delle notificazioni</string>
-    <string name="s_notifications_text_size_capital">TAGLIA TESTO DELLE NOTIFICAZIONI</string>
+    <string name="s_notifications_text_size">Taglia del testo</string>
+    <string name="s_notifications_text_size_capital">TAGLIA DEL TESTO</string>
     <string name="s_november_full_capital">NOVEMBRE</string>
     <string name="s_october_full_capital">OTTOBRE</string>
     <string name="s_ok_capital">OK</string>
     <string name="s_open_automatic_time_tip">Si prega di attivare il pulsante manuale per prima</string>
     <string name="s_open_bluetooth_tip">Attivare il collegamento Bluetooth sul dispositivo Android</string>
     <string name="s_or_capital">O</string>
-    <string name="s_otherfunction_close_ring">Per cortesia disattivate la modalità ricerca dal vostro orologio MyKronoz</string>
-    <string name="s_oups_pairing_failed">"OOPS
-ACCOPPIAMENTO FALLITO"</string>
+    <string name="s_otherfunction_close_ring">Per favore disattiva la modalità ricerca dal vostro orologio MyKronoz</string>
+    <string name="s_oups_pairing_failed">"OPS!
+ASSOCIAZIONE NON RIUSCITA"</string>
     <string name="s_oups_update_failed_capital">"OPS 
 Caricamento Fallito"</string>
     <string name="s_password">Password</string>
@@ -369,7 +382,7 @@ Caricamento Fallito"</string>
     <string name="s_password_reset">Resetta la password</string>
     <string name="s_password_reset_capital">RESETTA LA PASSWORD</string>
     <string name="s_password_same">la nuova password è uguale alla precedente</string>
-    <string name="s_personal_information_capital">INFORMAZIONE PERSONALE</string>
+    <string name="s_personal_information_capital">INFORMAZIONI PERSONALI</string>
     <string name="s_personal_reminder">Personale</string>
     <string name="s_personal_reminder_capital">PERSONALE</string>
     <string name="s_personal_reminder_content_empty">Il contenuto dei promemoria personali non può essere vuoto</string>
@@ -381,12 +394,13 @@ sullo schermo dell'orologio"</string>
     <string name="s_power_off_mode_capital">MODALITÀ SPEGNIMENTO</string>
     <string name="s_preset_answers">Risposte predefinite</string>
     <string name="s_preset_answers_capital">RISPOSTE PREDEFINITE</string>
-    <string name="s_preset_sleep">Programma sonno</string>
-    <string name="s_preset_sleep_capital">PROGRAMMA SONNO</string>
-    <string name="s_preset_track_capital">TRACCIATO PREIMPOSTATO</string>
+    <string name="s_preset_sleep">Sonno predefinito</string>
+    <string name="s_preset_sleep_capital">SONNO PREDEFINITO</string>
+    <string name="s_preset_track">Analisi predeterminata</string>
+    <string name="s_preset_track_capital">ANALISI PREDETERMINATA</string>
     <string name="s_public_ble_disconnected">Bluetooth disconnesso</string>
     <string name="s_public_check_firmware">Check the firmware version</string>
-    <string name="s_public_force_update_tip">Richiesto nuovo aggiornamento del Firmware</string>
+    <string name="s_public_force_update_tip">Nuovo aggiornamento del Firmware richiesto</string>
     <string name="s_public_full_month_April">Aprile</string>
     <string name="s_public_full_month_August">Agosto</string>
     <string name="s_public_full_month_December">Dicembre</string>
@@ -453,9 +467,9 @@ l'icona del promemoria impostato"</string>
     <string name="s_reminders">Promemoria</string>
     <string name="s_repeat_password">Ripeti la nuova password</string>
     <string name="s_repeat_preset_answers">Ripeti risposta predefinita</string>
+    <string name="s_reset">Resetta</string>
     <string name="s_reset_capital">RESETTA</string>
     <string name="s_reset_my_password">REIMPOSTA LA PASSWORD</string>
-    <string name="s_reset_z">Resetta</string>
     <string name="s_reset_zetime">Resetta ZeTime</string>
     <string name="s_s_capital">S</string>
     <string name="s_s_capital1">D</string>
@@ -467,10 +481,13 @@ l'icona del promemoria impostato"</string>
     <string name="s_searching_for_your_zefit4">Sto cercando il tuo ZeFit⁴</string>
     <string name="s_searching_for_your_zefit4hr">Sto cercando il tuo ZeFit⁴ᴴᴿ</string>
     <string name="s_searching_for_your_zetime">Sto cercando il tuo ZeTime</string>
+    <string name="s_second_hands">Lancetta secondi</string>
     <string name="s_select_a_picture_from_your_library">"Seleziona un'immagine dalla galleria"</string>
     <string name="s_select_a_watch_face">Seleziona un quadrante</string>
     <string name="s_select_a_watch_face_capital">SELEZIONA UN QUADRANTE</string>
+    <string name="s_select_your_prefered_alert">Seleziona il tipo di avviso che preferisci</string>
     <string name="s_select_your_watch">Selezionare Orologio</string>
+    <string name="s_send_watch_face_tip">Vuoi inviare il tuo quadrante sul tuo ZeTime?</string>
     <string name="s_september_full_capital">SETTEMBRE</string>
     <string name="s_set_automatically">Imposta automaticamente</string>
     <string name="s_set_up_capital">CONFIGURAZIONE</string>
@@ -484,7 +501,7 @@ OBIETTIVI"</string>
     <string name="s_setting_AD_wearing_habits_Right_hand">Mano destra</string>
     <string name="s_setting_advance_settings_always_sync_tip">"ATTENZIONE! L'attivazione di questa funzione, avere un notevole impatto sulla batteria. Vuoi continuare?"</string>
     <string name="s_setting_battery">Batteria</string>
-    <string name="s_setting_camera">Macchina totografia</string>
+    <string name="s_setting_camera">Macchina fotografia</string>
     <string name="s_setting_camera_tip">Foto presa con successo</string>
     <string name="s_setting_conn_pair_tip_line1">RICEVERAI UNA RICHIESTA DI ABBINAMENTO</string>
     <string name="s_setting_conn_pair_tip_line2">"TOCCA IL DISPLAY DI ZeFit⁴ PER ACCETTARE L'ABBINAMENTO"</string>
@@ -518,7 +535,6 @@ OBIETTIVI"</string>
     <string name="s_setting_my_profile_album">ALBUM</string>
     <string name="s_setting_my_profile_confirm_new_password">Confirmer le nouveau mot de passe</string>
     <string name="s_setting_my_profile_country">Paese/Regione</string>
-    <string name="s_setting_my_profile_email">E-Mail</string>
     <string name="s_setting_my_profile_old_password">Vecchia password</string>
     <string name="s_setting_my_profile_password">Password</string>
     <string name="s_setting_my_profile_submit">PRESENTARE</string>
@@ -526,10 +542,9 @@ OBIETTIVI"</string>
     <string name="s_setting_notifications_calendar">Evento</string>
     <string name="s_setting_notifications_call">Chiamate</string>
     <string name="s_setting_notifications_double_vibration">Vibrazione doppia</string>
-    <string name="s_setting_notifications_email">E-Mail</string>
     <string name="s_setting_notifications_no_vibration">Nessuna vibrazione</string>
     <string name="s_setting_notifications_single_vibration">Vibrazione singola</string>
-    <string name="s_setting_notifications_sms">Sms</string>
+    <string name="s_setting_notifications_sms">SMS</string>
     <string name="s_setting_notifications_vibration">Vibrazione</string>
     <string name="s_setting_reset_tip">Questa operazione cancellerà tutti i dati delle attività e andrà a ripristinare ZeFit⁴ con le impostazioni originali?</string>
     <string name="s_setting_reset_tip_zetime">Questa operazione cancellerà tutti i dati di attività e ripristinare attrezzatura le impostazioni originali?</string>
@@ -572,7 +587,7 @@ Scaricalo ora ?"</string>
     <string name="s_steps_capital">PASSI</string>
     <string name="s_steps_lower">passi</string>
     <string name="s_su_capital">DOM</string>
-    <string name="s_successful">Riuscito!</string>
+    <string name="s_successful">Riuscito</string>
     <string name="s_sun">Dom</string>
     <string name="s_sun_capital">DOM</string>
     <string name="s_sunday">Domenica</string>
@@ -580,6 +595,7 @@ Scaricalo ora ?"</string>
     <string name="s_t_capital">M</string>
     <string name="s_t_capital1">G</string>
     <string name="s_take_a_new_picture">Scatta una nuova foto</string>
+    <string name="s_take_a_new_picture_capital">SCATTA UNA NUOVA FOTO</string>
     <string name="s_temperature">℃/℉</string>
     <string name="s_th_capital">GIO</string>
     <string name="s_the_old_password_is_incorrect">La vecchia password è errata</string>
@@ -603,7 +619,6 @@ Scaricalo ora ?"</string>
     <string name="s_title_edit">Modifica</string>
     <string name="s_title_goal">Obiettivo</string>
     <string name="s_title_heart_rate">Frequenza cardiaca</string>
-    <string name="s_title_inactivity_alert">Avviso inattività</string>
     <string name="s_title_my_profile">Il mio profilo</string>
     <string name="s_title_reset">Reset</string>
     <string name="s_title_save">Salva</string>
@@ -611,12 +626,13 @@ Scaricalo ora ?"</string>
     <string name="s_title_sleep_add">Aggiungi sonno</string>
     <string name="s_today">Oggi</string>
     <string name="s_today_capital">OGGI</string>
-    <string name="s_tracking_every">Tracciamento completo</string>
+    <string name="s_tracking_every">Analisi ogni</string>
     <string name="s_try_again_capital">RIPROVA</string>
     <string name="s_tu_capital">MAR</string>
     <string name="s_tues">Mar</string>
     <string name="s_tuesday">Martedi</string>
-    <string name="s_unlock">Sblocca</string>
+    <string name="s_unlock">Sbloccare</string>
+    <string name="s_unlock_capital">SBLOCCARE</string>
     <string name="s_unlocked">Sblocca</string>
     <string name="s_unlocked_capital">SBLOCCATO</string>
     <string name="s_unpair">Dissocia</string>
@@ -633,10 +649,15 @@ Scaricalo ora ?"</string>
     <string name="s_wake_up_capital">SVEGLIA</string>
     <string name="s_wake_up_n_time_capital">"ORA DELLA
 SVEGLIA"</string>
-    <string name="s_wake_up_time">Ora della sveglia</string>
-    <string name="s_wake_up_time_capital">ORA DELLA SVEGLIA</string>
+    <string name="s_wake_up_time">Ora sveglia</string>
+    <string name="s_wake_up_time_capital">ORA SVEGLIA</string>
     <string name="s_wallpaper">Sfondo</string>
     <string name="s_watch_face">Quadrante</string>
+    <string name="s_watch_face_home_page_tip">"Premi 
+sul quadrante che desideri 
+conservare nel ZeTime"</string>
+    <string name="s_watch_face_home_page_tip2">Trascina e lascia il quadrante che desideri conservare nel ZeTime</string>
+    <string name="s_watch_face_home_page_tip2_capital">TRASCINA E LASCIA IL QUADRANTE CHE DESIDERI CONSERVARE NEL ZETIME</string>
     <string name="s_watch_faces_capital">QUADRANTE</string>
     <string name="s_watch_selection_capital">"SELEZIONE L' OROLOGIO"</string>
     <string name="s_wearing_habits">Preferenza di uso</string>
@@ -653,7 +674,6 @@ SVEGLIA"</string>
     <string name="s_wheel_ok">Ok</string>
     <string name="s_widgets">Widget</string>
     <string name="s_widgets_capital">WIDGET</string>
-    <string name="s_wrong_email_or_password">E-mail o password errata</string>
     <string name="s_yes_capital">SÍ</string>
     <string name="s_yesterday">Ieri</string>
     <string name="s_yesterday_capital">IERI</string>
