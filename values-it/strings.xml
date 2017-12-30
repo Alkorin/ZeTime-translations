@@ -80,7 +80,7 @@
     <string name="s_activity_detail_add_sleep_yesterday">Ieri</string>
     <string name="s_activity_detail_awake">Sveglia</string>
     <string name="s_activity_detail_awake_for">Sveglio da</string>
-    <string name="s_activity_detail_awake_time">ORE SVEGLIO</string>
+    <string name="s_activity_detail_awake_time">ORA SVEGLIA</string>
     <string name="s_activity_detail_bed_time">ANDARE A LETTO</string>
     <string name="s_activity_detail_cancel">ANNULLA</string>
     <string name="s_activity_detail_deep_sleep">Sonno profondo</string>
@@ -103,7 +103,6 @@
     <string name="s_activity_min_capital">MINUTI ATTIVITÀ</string>
     <string name="s_activity_minutes">Minuti attività</string>
     <string name="s_activity_no_more_data">Nessun dato</string>
-    <string name="s_activity_sleep">SONNO</string>
     <string name="s_add_sleep_awake_later_bed">Il periodo da sveglio deve essere successivo al sonno</string>
     <string name="s_add_sleep_bed_earlier_awake">Il periodo del sonno deve essere antecedente al periodo da sveglio</string>
     <string name="s_add_sleep_capital">AGGIUNGI SONNO</string>
@@ -117,7 +116,7 @@
     <string name="s_all_set">Configurazione terminata</string>
     <string name="s_all_set_capital">CONFIGURAZIONE TERMINATA</string>
     <string name="s_always_sync">Sincronizzazione continua</string>
-    <string name="s_anti_lost">Antismarrimento</string>
+    <string name="s_anti_lost">Anti-perdita</string>
     <string name="s_april_full_capital">APRIL</string>
     <string name="s_august_full_capital">AGOSTO</string>
     <string name="s_auto_sleep">Sonno automatico</string>
@@ -127,8 +126,8 @@
     <string name="s_auto_track">monitoraggio automatico</string>
     <string name="s_awake">Sveglia</string>
     <string name="s_awake_capital">SVEGLIA</string>
-    <string name="s_awake_time">Ore sveglio</string>
-    <string name="s_awake_time_capital">ORE SVEGLIO</string>
+    <string name="s_awake_time">Ora sveglia</string>
+    <string name="s_awake_time_capital">ORA SVEGLIA</string>
     <string name="s_bed_time">Andare a letto</string>
     <string name="s_bed_time_capital">"ANDARE A
 LETTO"</string>
@@ -159,9 +158,10 @@ LETTO"</string>
     <string name="s_connect_zefithr_with_phone">Connetti il tuo ZeFit⁴ᴴᴿ al tuo smartphone</string>
     <string name="s_connect_zetime">Connetti ZeTime</string>
     <string name="s_connect_zetime_with_phone">Connetti il tuo ZeTime al tuo smartphone</string>
-    <string name="s_contact_customer_support">Contatta supporto</string>
+    <string name="s_contact_customer_support">Contatta il servizio clienti</string>
     <string name="s_copyright">"Copyright,Kronoz LLC
  Tutti i diritti riservati"</string>
+    <string name="s_correct_the_city_name">Si prega di inserire il nome corretto della città</string>
     <string name="s_country">Paese</string>
     <string name="s_country_capital">PAESE</string>
     <string name="s_create_my_account">Creare il tuo profilo</string>
@@ -173,7 +173,7 @@ LETTO"</string>
     <string name="s_custom_repeat_capital">RIPETIZIONE PERSONALIZZATA</string>
     <string name="s_daily_goal_capital">OBIETTIVO GIORNALIERO</string>
     <string name="s_daily_goals">Obiettivo giornaliero</string>
-    <string name="s_dashboard">IL Quadrante</string>
+    <string name="s_dashboard">Attività</string>
     <string name="s_date">Data</string>
     <string name="s_date_capital">DATA</string>
     <string name="s_date_format">Formato data</string>
@@ -239,7 +239,6 @@ PROFONDO"</string>
     <string name="s_gender_capital">GENERE</string>
     <string name="s_goal_achieved">Obiettivo raggiunto</string>
     <string name="s_goal_capital">OBIETTIVO</string>
-    <string name="s_goal_sleep">SONNO</string>
     <string name="s_goal_step">PASSI</string>
     <string name="s_goals">Obiettivi</string>
     <string name="s_goals_settings_capital">PARAMETRI OBBIETTIVI</string>
@@ -272,6 +271,7 @@ AGGIORNAMENTO COMPLETATO"</string>
     <string name="s_hours_lower">ore</string>
     <string name="s_inactivity_alert">"Avviso d'inattività"</string>
     <string name="s_inactivity_alert_capital">"AVVISO D'INATTIVITÀ"</string>
+    <string name="s_inactivity_alert_no_select_cycle_tip">Selezionare i giorni di ripetizione del promemoria</string>
     <string name="s_insert_your">Inserisci il tuo</string>
     <string name="s_january_full_capital">GENNAIO</string>
     <string name="s_july_full_capital">LUGLIO</string>
@@ -385,11 +385,13 @@ Caricamento Fallito"</string>
     <string name="s_personal_information_capital">INFORMAZIONI PERSONALI</string>
     <string name="s_personal_reminder">Personale</string>
     <string name="s_personal_reminder_capital">PERSONALE</string>
-    <string name="s_personal_reminder_content_empty">Il contenuto dei promemoria personali non può essere vuoto</string>
+    <string name="s_personal_reminder_content_empty">Il contenuto del promemoria personale non può essere vuoto</string>
+    <string name="s_personal_reminder_content_more">Il contenuto dei promemoria personali è troppo lungo</string>
     <string name="s_photos">Foto</string>
     <string name="s_photos_capital">FOTO</string>
     <string name="s_please_confirm_tip">"si prega di confermare l'accoppiamento
 sullo schermo dell'orologio"</string>
+    <string name="s_please_unlock_first">Si prega di cliccare su sbloccare</string>
     <string name="s_power_off_mode">Modalità spegnimento</string>
     <string name="s_power_off_mode_capital">MODALITÀ SPEGNIMENTO</string>
     <string name="s_preset_answers">Risposte predefinite</string>
@@ -461,7 +463,6 @@ l'icona del promemoria impostato"</string>
     <string name="s_reminder_every_day">Everyday</string>
     <string name="s_reminder_reminder_type">Tipo di promemoria</string>
     <string name="s_reminder_toast_max_count">Non più di 10 richiami</string>
-    <string name="s_reminder_toast_no_reminder_day">Select the day you want the reminder to repeat</string>
     <string name="s_reminder_toast_no_reminder_type">Please select reminder type</string>
     <string name="s_reminder_toast_time_same">"C'è già un promemoria impostato in questa ora"</string>
     <string name="s_reminders">Promemoria</string>
@@ -492,11 +493,8 @@ l'icona del promemoria impostato"</string>
     <string name="s_set_automatically">Imposta automaticamente</string>
     <string name="s_set_up_capital">CONFIGURAZIONE</string>
     <string name="s_set_your_goals">Fissa i tuoi obbiettivi</string>
-    <string name="s_set_your_goals_capital">"IMPIEGA I VOSTRI 
-OBIETTIVI"</string>
-    <string name="s_set_your_goals_capital1">FISSA I TUOI OBBIETTIVI</string>
+    <string name="s_set_your_goals_capital">FISSA I TUOI OBBIETTIVI</string>
     <string name="s_setting_AD_inactivity_alert_interval">intervallo</string>
-    <string name="s_setting_AD_inactivity_alert_no_select_cycle">Select the day you want the reminder to repeat</string>
     <string name="s_setting_AD_wearing_habits_Left_hand">Mano sinistra</string>
     <string name="s_setting_AD_wearing_habits_Right_hand">Mano destra</string>
     <string name="s_setting_advance_settings_always_sync_tip">"ATTENZIONE! L'attivazione di questa funzione, avere un notevole impatto sulla batteria. Vuoi continuare?"</string>
@@ -508,7 +506,7 @@ OBIETTIVI"</string>
     <string name="s_setting_conn_unbind_tip">DISASSOCIA ZeFit⁴?</string>
     <string name="s_setting_conn_unbind_zefit">DISASSOCIA ZeFit⁴?</string>
     <string name="s_setting_conn_unbind_zefithr">DISASSOCIA ZeFit⁴ᴴᴿ?</string>
-    <string name="s_setting_conn_unbind_zetime">Dissocia ZeTime?</string>
+    <string name="s_setting_conn_unbind_zetime">DISASSOCIA 禅的时间?</string>
     <string name="s_setting_dfu_set_up">CONFIGURAZIONE</string>
     <string name="s_setting_dfu_updating_tip1">Aggiornamento in corso</string>
     <string name="s_setting_dfu_updating_tip2">Questa operazione può richiedere 5-10 minuti</string>
@@ -550,7 +548,7 @@ OBIETTIVI"</string>
     <string name="s_setting_reset_tip_zetime">Questa operazione cancellerà tutti i dati di attività e ripristinare attrezzatura le impostazioni originali?</string>
     <string name="s_setting_reset_tiphr">Questa operazione cancellerà tutti i dati delle attività e andrà a ripristinare ZeFit⁴ᴴᴿ con le impostazioni originali?</string>
     <string name="s_setting_update_firmware_tip">"V%1$s Disponible
-Scaricalo ora ?"</string>
+Scaricarlo ora?"</string>
     <string name="s_setting_watch_face_horizontal">Orizzontale</string>
     <string name="s_setting_watch_face_vertical">Verticale</string>
     <string name="s_settings">Impostazioni</string>
@@ -577,12 +575,13 @@ Scaricalo ora ?"</string>
     <string name="s_star_enjoy_btn_yes">Si!</string>
     <string name="s_star_enjoy_zefit4">Ti diverti con ZeFit⁴?</string>
     <string name="s_star_enjoy_zefit4hr">Ti diverti con ZeFit⁴ᴴᴿ?</string>
+    <string name="s_star_enjoy_zetime">Ti diverti con ZeTime?</string>
     <string name="s_star_give_feedback_content">Ti dispiace darci la tua opinione?</string>
     <string name="s_start">Inizia</string>
     <string name="s_start_capital">INIZIA</string>
     <string name="s_start_now_capital">INIZIA ADESSO</string>
-    <string name="s_start_pairing">Inizio dell’abbinamento</string>
-    <string name="s_start_pairing_capital">INIZIO DELL’ABBINAMENTO</string>
+    <string name="s_start_pairing">"Inizio dell'associazione"</string>
+    <string name="s_start_pairing_capital">"INIZIO DELL'ASSOCIAZIONE"</string>
     <string name="s_steps">Passi</string>
     <string name="s_steps_capital">PASSI</string>
     <string name="s_steps_lower">passi</string>
@@ -601,7 +600,7 @@ Scaricalo ora ?"</string>
     <string name="s_the_old_password_is_incorrect">La vecchia password è errata</string>
     <string name="s_thu">Gio</string>
     <string name="s_thur_capital">GIO</string>
-    <string name="s_thursday">Giovedi</string>
+    <string name="s_thursday">Martedí</string>
     <string name="s_thus_capital">MAR</string>
     <string name="s_time">Ora</string>
     <string name="s_time_after_today_error">Il tempo predefinito non può essere maggiore a oggi</string>
@@ -618,7 +617,7 @@ Scaricalo ora ?"</string>
     <string name="s_time_sync_capital">SINCRONIZZA ORA</string>
     <string name="s_title_edit">Modifica</string>
     <string name="s_title_goal">Obiettivo</string>
-    <string name="s_title_heart_rate">Frequenza cardiaca</string>
+    <string name="s_title_inactivity_alert">Avviso inattività</string>
     <string name="s_title_my_profile">Il mio profilo</string>
     <string name="s_title_reset">Reset</string>
     <string name="s_title_save">Salva</string>
@@ -638,9 +637,10 @@ Scaricalo ora ?"</string>
     <string name="s_unpair">Dissocia</string>
     <string name="s_unpair_capital">DISSOCIA</string>
     <string name="s_unpair_zetime">Dissocia ZeTime</string>
+    <string name="s_unpair_zetime_capital">Dissocia ZeTime?</string>
     <string name="s_upload_photo_tip">Caricamento in corso, questa operazione può prendere qualche minuto</string>
-    <string name="s_user_name">Username</string>
-    <string name="s_user_name_capital">USERNAME</string>
+    <string name="s_user_name">Utente</string>
+    <string name="s_user_name_capital">UTENTE</string>
     <string name="s_user_name_null">Inserisci il tuo username</string>
     <string name="s_vibration">Vibrazione</string>
     <string name="s_vibration_x2">Vibrazione x2</string>
@@ -649,8 +649,8 @@ Scaricalo ora ?"</string>
     <string name="s_wake_up_capital">SVEGLIA</string>
     <string name="s_wake_up_n_time_capital">"ORA DELLA
 SVEGLIA"</string>
-    <string name="s_wake_up_time">Ora sveglia</string>
-    <string name="s_wake_up_time_capital">ORA SVEGLIA</string>
+    <string name="s_wake_up_time">Ora della sveglia</string>
+    <string name="s_wake_up_time_capital">ORA DELLA SVEGLIA</string>
     <string name="s_wallpaper">Sfondo</string>
     <string name="s_watch_face">Quadrante</string>
     <string name="s_watch_face_home_page_tip">"Premi 
@@ -669,6 +669,7 @@ conservare nel ZeTime"</string>
     <string name="s_wed_capital">MER</string>
     <string name="s_wednesday">Mercoledi</string>
     <string name="s_week">Settimana</string>
+    <string name="s_week_capital">SETTIMANA</string>
     <string name="s_weight">Peso</string>
     <string name="s_weight_capital">PESO</string>
     <string name="s_wheel_ok">Ok</string>

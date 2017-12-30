@@ -103,7 +103,6 @@ De ingenieurs van het bedrijf zijn daarom continu bezig innovatieve en draagbare
     <string name="s_activity_min_capital">ACTIEVE MIN.</string>
     <string name="s_activity_minutes">Actieve min.</string>
     <string name="s_activity_no_more_data">Geen data beschikbaar</string>
-    <string name="s_activity_sleep">SLAAP</string>
     <string name="s_add_sleep_awake_later_bed">Uw wektijd moet later zijn dan uw bedtijd.</string>
     <string name="s_add_sleep_bed_earlier_awake">Uw bedtijd moet vroeger zijn dan uw wektijd.</string>
     <string name="s_add_sleep_capital">SLAAPTIJD TOEVOEGEN</string>
@@ -161,6 +160,7 @@ De ingenieurs van het bedrijf zijn daarom continu bezig innovatieve en draagbare
     <string name="s_contact_customer_support">Contact met de klantendienst</string>
     <string name="s_copyright">"Copyright, Kronoz LLC
  Alle rechten voorbehouden"</string>
+    <string name="s_correct_the_city_name">Voer de juiste plaatsnaam in</string>
     <string name="s_country">Land</string>
     <string name="s_country_capital">LAND</string>
     <string name="s_create_my_account">Creëer mijn account</string>
@@ -237,7 +237,6 @@ De ingenieurs van het bedrijf zijn daarom continu bezig innovatieve en draagbare
     <string name="s_gender_capital">GESLACHT</string>
     <string name="s_goal_achieved">Doel behaald</string>
     <string name="s_goal_capital">DOEL</string>
-    <string name="s_goal_sleep">SLAPEN</string>
     <string name="s_goal_step">STAPPEN</string>
     <string name="s_goals">Doelen</string>
     <string name="s_goals_settings_capital">DOELINSTELLINGEN</string>
@@ -270,6 +269,7 @@ UPDATE VOLTOOID"</string>
     <string name="s_hours_lower">uren</string>
     <string name="s_inactivity_alert">Waarschuwing inactiviteit</string>
     <string name="s_inactivity_alert_capital">WAARSCHUWING INACTIVITEIT</string>
+    <string name="s_inactivity_alert_no_select_cycle_tip">Kies de dag waarop de herinnering moet worden herhaald</string>
     <string name="s_insert_your">Plaats uw</string>
     <string name="s_january_full_capital">JANUARI</string>
     <string name="s_july_full_capital">JULI</string>
@@ -382,11 +382,13 @@ Update mislukt!"</string>
     <string name="s_personal_information_capital">PERSOONLIJKE INFORMATIE</string>
     <string name="s_personal_reminder">Persoonlijk</string>
     <string name="s_personal_reminder_capital">PERSOONLIJK</string>
-    <string name="s_personal_reminder_content_empty">Inhoud persoonlijke herinnering kan niet leeg zijn</string>
+    <string name="s_personal_reminder_content_empty">Persoonlijke herinneringsinhoud mag niet leeg zijn</string>
+    <string name="s_personal_reminder_content_more">Persoonlijke herinneringsinhoud is te lang</string>
     <string name="s_photos">Camera</string>
     <string name="s_photos_capital">CAMERA</string>
     <string name="s_please_confirm_tip">"Controleer de koppeling
 op uw horlogescherm"</string>
+    <string name="s_please_unlock_first">Klik eerst op ontgrendelen</string>
     <string name="s_power_off_mode">Power-off modus</string>
     <string name="s_power_off_mode_capital">POWER-OFF MODUS</string>
     <string name="s_preset_answers">Vooraf ingestelde antwoorden</string>
@@ -459,7 +461,6 @@ bijhorend pictogram tonen om u te waarschuwen
     <string name="s_reminder_every_day">Everyday</string>
     <string name="s_reminder_reminder_type">Herinneringstype</string>
     <string name="s_reminder_toast_max_count">No more than 10 reminders</string>
-    <string name="s_reminder_toast_no_reminder_day">De dagen kiezen waarop de herinnering wordt herhaald</string>
     <string name="s_reminder_toast_no_reminder_type">Kies het type herinnering</string>
     <string name="s_reminder_toast_time_same">Tijdweergave kan niet worden herhaald!</string>
     <string name="s_reminders">Herinneringen</string>
@@ -490,11 +491,8 @@ bijhorend pictogram tonen om u te waarschuwen
     <string name="s_set_automatically">Automatisch instellen</string>
     <string name="s_set_up_capital">CONFIGURATIE</string>
     <string name="s_set_your_goals">Bepaal je doelen</string>
-    <string name="s_set_your_goals_capital">"SET YOUR 
-GOALS"</string>
-    <string name="s_set_your_goals_capital1">BEPAAL JE DOELEN</string>
+    <string name="s_set_your_goals_capital">BEPAAL JE DOELEN</string>
     <string name="s_setting_AD_inactivity_alert_interval">Interval</string>
-    <string name="s_setting_AD_inactivity_alert_no_select_cycle">Select the day you want the reminder to repeat</string>
     <string name="s_setting_AD_wearing_habits_Left_hand">Links</string>
     <string name="s_setting_AD_wearing_habits_Right_hand">Rechts</string>
     <string name="s_setting_advance_settings_always_sync_tip">WAARSCHUWING! Het inschakelen van deze functie heeft een aanzienlijke invloed op de batterij. Wilt u doorgaan?</string>
@@ -506,7 +504,7 @@ GOALS"</string>
     <string name="s_setting_conn_unbind_tip">ZeFit⁴ ONTKOPPELEN?</string>
     <string name="s_setting_conn_unbind_zefit">ZeFit⁴ ONTKOPPELEN?</string>
     <string name="s_setting_conn_unbind_zefithr">ZeFit⁴ᴴᴿ ONTKOPPELEN?</string>
-    <string name="s_setting_conn_unbind_zetime">ZeTime Ontkoppelen?</string>
+    <string name="s_setting_conn_unbind_zetime">禅的时间 ONTKOPPELEN?</string>
     <string name="s_setting_dfu_set_up">Instellen</string>
     <string name="s_setting_dfu_updating_tip1">Update wordt uitgevoerd</string>
     <string name="s_setting_dfu_updating_tip2">Deze handeling kan 5-10 minuten duren</string>
@@ -548,7 +546,7 @@ GOALS"</string>
     <string name="s_setting_reset_tip_zetime">Deze operatie zal al uw activiteiten gegevens te verwijderen en te herstellen ZeTime naar de originele instellingen?</string>
     <string name="s_setting_reset_tiphr">Deze handeling verwijdert al uw activiteitsgegevens en herstelt de originele instellingen van de ZeFit⁴ᴴᴿ ?</string>
     <string name="s_setting_update_firmware_tip">"V%1$s Beschikbaar
-Download het nu?"</string>
+Nu downloaden?"</string>
     <string name="s_setting_watch_face_horizontal">Horizontaal</string>
     <string name="s_setting_watch_face_vertical">Verticaal</string>
     <string name="s_settings">Instellingen</string>
@@ -610,7 +608,7 @@ Download het nu?"</string>
     <string name="s_time_sync_capital">TIJDSYNCHRONISATIE</string>
     <string name="s_title_edit">Wijzigen</string>
     <string name="s_title_goal">Doelstellingen</string>
-    <string name="s_title_heart_rate">Hartslag</string>
+    <string name="s_title_inactivity_alert">Waarschuwing inactiviteit</string>
     <string name="s_title_my_profile">Mijn profiel</string>
     <string name="s_title_reset">Reset</string>
     <string name="s_title_save">Opslaan</string>
@@ -630,6 +628,7 @@ Download het nu?"</string>
     <string name="s_unpair">Ontkoppelen</string>
     <string name="s_unpair_capital">ONTKOPPELEN</string>
     <string name="s_unpair_zetime">ZeTime Ontkoppelen</string>
+    <string name="s_unpair_zetime_capital">ZeTime Ontkoppelen?</string>
     <string name="s_upload_photo_tip">Bezig met uploaden, dit kan ongeveer een minuut duren</string>
     <string name="s_user_name">Gebruikersnaam</string>
     <string name="s_user_name_capital">GEBRUIKERSNAAM</string>
@@ -659,6 +658,7 @@ die u op uw ZeTime wilt opslaan"</string>
     <string name="s_wed_capital">WO</string>
     <string name="s_wednesday">Woensdag</string>
     <string name="s_week">Week</string>
+    <string name="s_week_capital">WEEK</string>
     <string name="s_weight">Gewicht</string>
     <string name="s_weight_capital">GEWICHT</string>
     <string name="s_wheel_ok">OK</string>

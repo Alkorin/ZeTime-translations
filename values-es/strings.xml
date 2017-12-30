@@ -100,7 +100,6 @@ Como resultado, los ingenieros de la empresa están desarrollando continuamente 
     <string name="s_activity_goal">METAS</string>
     <string name="s_activity_light_sleep">Sueño ligero</string>
     <string name="s_activity_no_more_data">No hay más datos</string>
-    <string name="s_activity_sleep">SUEÑO</string>
     <string name="s_add_sleep_awake_later_bed">Su hora de despertar deber ser mas tarde que la hora de domir</string>
     <string name="s_add_sleep_bed_earlier_awake">Su hora de dormir debe ser mas temprano que la hora de despertar</string>
     <string name="s_add_sleep_capital">AÑADIR SUEÑO</string>
@@ -129,6 +128,7 @@ Como resultado, los ingenieros de la empresa están desarrollando continuamente 
     <string name="s_birthday_capital">CUMPLEAÑOS</string>
     <string name="s_bluetooth_not_supported">Bluetooth no compatible</string>
     <string name="s_bpm_capital">BPM</string>
+    <string name="s_calibration_capital">CALIBRACIÓN DE MANOS</string>
     <string name="s_calories">Calorías</string>
     <string name="s_calories_capital">CALORÍAS</string>
     <string name="s_calories_type">Tipo de calorías</string>
@@ -224,7 +224,6 @@ PROFUNDO"</string>
     <string name="s_gender_capital">GÉNERO</string>
     <string name="s_goal_achieved">Objetivo alcanzado</string>
     <string name="s_goal_capital">METAS</string>
-    <string name="s_goal_sleep">DORMIR</string>
     <string name="s_goal_step">PASOS</string>
     <string name="s_goals">Metas</string>
     <string name="s_goals_settings_capital">AJUSTES DE OBJETIVOS</string>
@@ -431,7 +430,6 @@ correspondiente para avisarle
     <string name="s_reminder_every_day">Everyday</string>
     <string name="s_reminder_reminder_type">Tipo de recordatorio</string>
     <string name="s_reminder_toast_max_count">No màs que 10 recordatorios</string>
-    <string name="s_reminder_toast_no_reminder_day">Seleccione los días que quiera que se repita</string>
     <string name="s_reminder_toast_no_reminder_type">Seleccione el tipo de aviso</string>
     <string name="s_reminder_toast_time_same">¡El tiempo no puede repetirse!</string>
     <string name="s_reminders">Avisos</string>
@@ -459,10 +457,7 @@ correspondiente para avisarle
 metas"</string>
     <string name="s_set_your_goals_capital">"FIJA TUS 
 METAS"</string>
-    <string name="s_set_your_goals_capital1">"FIJA TUS 
-METAS"</string>
     <string name="s_setting_AD_inactivity_alert_interval">intervalo</string>
-    <string name="s_setting_AD_inactivity_alert_no_select_cycle">Seleccione los días que quiera que se repita</string>
     <string name="s_setting_AD_wearing_habits_Left_hand">Mano izquierda</string>
     <string name="s_setting_AD_wearing_habits_Right_hand">Mano derecha</string>
     <string name="s_setting_advance_settings_always_sync_tip">ADVERTENCIA! Activar esta función le-tiene un impacto notable en la batería. ¿Quieres continuar?</string>
@@ -474,7 +469,7 @@ METAS"</string>
     <string name="s_setting_conn_unbind_tip">DESEMPAREJAR ZeFit⁴?</string>
     <string name="s_setting_conn_unbind_zefit">DESEMPAREJAR ZeFit⁴?</string>
     <string name="s_setting_conn_unbind_zefithr">DESEMPAREJAR ZeFit⁴ᴴᴿ?</string>
-    <string name="s_setting_conn_unbind_zetime">DESEMPAREJAR ZeTime?</string>
+    <string name="s_setting_conn_unbind_zetime">DESEMPAREJAR 禅的时间?</string>
     <string name="s_setting_dfu_set_up">CONFIGURAR</string>
     <string name="s_setting_dfu_updating_tip1">Actualización en progreso</string>
     <string name="s_setting_dfu_updating_tip2">Esta operación puede tardar 5-10 minutos</string>
@@ -538,6 +533,7 @@ Descargue Ahora?"</string>
     <string name="s_star_enjoy_btn_yes">Si!</string>
     <string name="s_star_enjoy_zefit4">Estas disfrutado de ZeFit⁴?</string>
     <string name="s_star_enjoy_zefit4hr">Estas disfrutado de ZeFit⁴ᴴᴿ?</string>
+    <string name="s_star_enjoy_zetime">Estas disfrutado de ZeTime?</string>
     <string name="s_star_give_feedback_content">¿Te importaría darnos algún comentario?</string>
     <string name="s_start">Empezar</string>
     <string name="s_start_capital">INICIO</string>
@@ -576,7 +572,7 @@ Descargue Ahora?"</string>
     <string name="s_time_sync_capital">SINCRONIZACIÓN DE TIEMPO</string>
     <string name="s_title_edit">Editar</string>
     <string name="s_title_goal">Objetivos</string>
-    <string name="s_title_heart_rate">Ritmo cardíaco</string>
+    <string name="s_title_inactivity_alert">Alerta de inactividadt</string>
     <string name="s_title_my_profile">Mi perfil</string>
     <string name="s_title_reset">Reinicializar</string>
     <string name="s_title_save">Guardar</string>
@@ -596,6 +592,7 @@ Descargue Ahora?"</string>
     <string name="s_unpair">Desvincular</string>
     <string name="s_unpair_capital">DESVINCULAR</string>
     <string name="s_unpair_zetime">Desvincular ZeTime</string>
+    <string name="s_unpair_zetime_capital">DESEMPAREJAR ZeTime?</string>
     <string name="s_upload_photo_tip">Actualizacion en cusro, este operacion puede durar un minuto</string>
     <string name="s_user_name">Nombre de usuario</string>
     <string name="s_user_name_capital">NOMBRE DE USUARIO</string>
@@ -622,6 +619,7 @@ DESPERTAR"</string>
     <string name="s_wed_capital">M</string>
     <string name="s_wednesday">Miercoles</string>
     <string name="s_week">Semana</string>
+    <string name="s_week_capital">SEMANA</string>
     <string name="s_weight">Peso</string>
     <string name="s_weight_capital">PESO</string>
     <string name="s_wheel_ok">Ok</string>

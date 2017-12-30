@@ -94,7 +94,7 @@ MyKronozの目標は、モバイル技術へのシンプルな独自のアプロ
     <string name="s_activity_detail_unit_d">d</string>
     <string name="s_activity_detail_unit_hours">hours</string>
     <string name="s_activity_detail_unit_kcal">キロカロリー</string>
-    <string name="s_activity_detail_unit_km">km</string>
+    <string name="s_activity_detail_unit_km">キロメートル</string>
     <string name="s_activity_detail_unit_miles">miles</string>
     <string name="s_activity_detail_week">週</string>
     <string name="s_activity_goal">目標</string>
@@ -103,7 +103,6 @@ MyKronozの目標は、モバイル技術へのシンプルな独自のアプロ
     <string name="s_activity_min_capital">アクティブ・分</string>
     <string name="s_activity_minutes">アクティブ・分</string>
     <string name="s_activity_no_more_data">データはありません</string>
-    <string name="s_activity_sleep">睡眠</string>
     <string name="s_add_sleep_awake_later_bed">起床時刻は就寝時刻よりも遅い時間である必要があります。</string>
     <string name="s_add_sleep_bed_earlier_awake">就寝時刻は起床時刻よりも早い時間である必要があります。</string>
     <string name="s_add_sleep_capital">睡眠の追加</string>
@@ -233,7 +232,6 @@ MyKronozの目標は、モバイル技術へのシンプルな独自のアプロ
     <string name="s_gender_capital">性別</string>
     <string name="s_goal_achieved">目標達成</string>
     <string name="s_goal_capital">目標</string>
-    <string name="s_goal_sleep">睡眠</string>
     <string name="s_goal_step">歩数</string>
     <string name="s_goals">目標</string>
     <string name="s_goals_settings_capital">目標設定</string>
@@ -269,8 +267,8 @@ MyKronozの目標は、モバイル技術へのシンプルな独自のアプロ
     <string name="s_january_full_capital">1月</string>
     <string name="s_july_full_capital">7月</string>
     <string name="s_june_full_capital">6月</string>
-    <string name="s_kcal_capital">キロカロリー</string>
-    <string name="s_kcal_lower">キロカロリー</string>
+    <string name="s_kcal_capital">KCAL</string>
+    <string name="s_kcal_lower">kcal</string>
     <string name="s_kg">kg</string>
     <string name="s_km_capital">KM</string>
     <string name="s_km_lower">km</string>
@@ -448,7 +446,6 @@ ZeFit³は軽く振動し、対応するアラームのアイコンを
     <string name="s_reminder_every_day">Everyday</string>
     <string name="s_reminder_reminder_type">リマインダーの種類</string>
     <string name="s_reminder_toast_max_count">リマインダー10件以下</string>
-    <string name="s_reminder_toast_no_reminder_day">アラームを繰り返す曜日を選択してください</string>
     <string name="s_reminder_toast_no_reminder_type">アラーム種類を選択してください</string>
     <string name="s_reminder_toast_time_same">時間は繰り返すことができません！</string>
     <string name="s_reminders">アラーム</string>
@@ -476,10 +473,8 @@ ZeFit³は軽く振動し、対応するアラームのアイコンを
     <string name="s_set_automatically">自動的に設定</string>
     <string name="s_set_up_capital">セットアップ</string>
     <string name="s_set_your_goals">目標を設定</string>
-    <string name="s_set_your_goals_capital">あなたの目標を設定する</string>
-    <string name="s_set_your_goals_capital1">目標を設定</string>
+    <string name="s_set_your_goals_capital">目標を設定</string>
     <string name="s_setting_AD_inactivity_alert_interval">間隔</string>
-    <string name="s_setting_AD_inactivity_alert_no_select_cycle">Select the day you want the reminder to repeat</string>
     <string name="s_setting_AD_wearing_habits_Left_hand">左利き</string>
     <string name="s_setting_AD_wearing_habits_Right_hand">右利き</string>
     <string name="s_setting_advance_settings_always_sync_tip">警告！この機能をオンにすると、バッテリーに顕著な影響を与えることになる。続行しますか？</string>
@@ -491,7 +486,7 @@ ZeFit³は軽く振動し、対応するアラームのアイコンを
     <string name="s_setting_conn_unbind_tip">ZeFit⁴ ペアリング解除?</string>
     <string name="s_setting_conn_unbind_zefit">ZeFit⁴ ペアリング解除?</string>
     <string name="s_setting_conn_unbind_zefithr">ZeFit⁴ᴴᴿ ペアリング解除?</string>
-    <string name="s_setting_conn_unbind_zetime">ZeTime ペアリング解除?</string>
+    <string name="s_setting_conn_unbind_zetime">禅的时间 ペアリング解除?</string>
     <string name="s_setting_dfu_set_up">セットアップ</string>
     <string name="s_setting_dfu_updating_tip1">更新中</string>
     <string name="s_setting_dfu_updating_tip2">この作業には5～10分程度かかります</string>
@@ -594,7 +589,7 @@ ZeFit³は軽く振動し、対応するアラームのアイコンを
     <string name="s_time_sync_capital">時刻同期</string>
     <string name="s_title_edit">編集</string>
     <string name="s_title_goal">目標</string>
-    <string name="s_title_heart_rate">心拍数</string>
+    <string name="s_title_inactivity_alert">活動停止の警告</string>
     <string name="s_title_my_profile">マイプロフィール</string>
     <string name="s_title_reset">リセット</string>
     <string name="s_title_save">保存</string>
@@ -614,6 +609,7 @@ ZeFit³は軽く振動し、対応するアラームのアイコンを
     <string name="s_unpair">ペアリング解除</string>
     <string name="s_unpair_capital">ペアリング解除</string>
     <string name="s_unpair_zetime">ZeTimeペアリング解除</string>
+    <string name="s_unpair_zetime_capital">ZeTime ペアリング解除?</string>
     <string name="s_upload_photo_tip">アップロード実行中、この操作はおよそ1分で完了します</string>
     <string name="s_user_name">ユーザー名</string>
     <string name="s_user_name_capital">ユーザー名</string>
@@ -641,6 +637,7 @@ ZeFit³は軽く振動し、対応するアラームのアイコンを
     <string name="s_wed_capital">水</string>
     <string name="s_wednesday">水曜日</string>
     <string name="s_week">週</string>
+    <string name="s_week_capital">週</string>
     <string name="s_weight">体重</string>
     <string name="s_weight_capital">体重</string>
     <string name="s_wheel_ok">OK</string>

@@ -80,7 +80,6 @@ Astfel, inginerii companiei dezvoltă în mod continuu dispozitive inovatoare, u
     <string name="s_activity_min_capital">MINUTE ACTIVITĂȚI</string>
     <string name="s_activity_minutes">Minute activităȚi</string>
     <string name="s_activity_no_more_data">Nu mai sunt date</string>
-    <string name="s_activity_sleep">SOMN</string>
     <string name="s_add_sleep_awake_later_bed">Ora de trezit trebuie să fie după ora de culcat.</string>
     <string name="s_add_sleep_bed_earlier_awake">Ora de culcat trebuie să fie înainte de ora de trezit.</string>
     <string name="s_add_sleep_capital">ADAUGĂ SOMN</string>
@@ -137,6 +136,7 @@ CULCARE"</string>
     <string name="s_contact_customer_support">ContactaȚi asistenȚă clienȚi</string>
     <string name="s_copyright">"Copyright, Kronoz LLC
  Toate drepturile rezervate"</string>
+    <string name="s_correct_the_city_name">Introduceți numele corect al orașului</string>
     <string name="s_country">Țara</string>
     <string name="s_country_capital">ȚARA</string>
     <string name="s_create_my_account">Creează-mi contul</string>
@@ -212,8 +212,7 @@ CULCARE"</string>
     <string name="s_gender_capital">GEN</string>
     <string name="s_goal_achieved">Obiectiv atins</string>
     <string name="s_goal_capital">Scop</string>
-    <string name="s_goal_sleep">SOMN</string>
-    <string name="s_goal_step">PAȘI</string>
+    <string name="s_goal_step">ETAPE</string>
     <string name="s_goals">Obiectiv</string>
     <string name="s_goals_settings_capital">SETĂRI OBIECTIVE</string>
     <string name="s_good_successful_pairing">"Bun
@@ -410,7 +409,6 @@ Actualizare nereușită!"</string>
     <string name="s_reminder_capital">MEMENTOURI</string>
     <string name="s_reminder_delete">Ștergi mementoul?</string>
     <string name="s_reminder_toast_max_count">Nu mai mult de 10 mementouri</string>
-    <string name="s_reminder_toast_no_reminder_day">Selectează ziua în care vrei să se repete mementoul</string>
     <string name="s_reminder_toast_no_reminder_type">Selectează tipul de memento</string>
     <string name="s_reminder_toast_time_same">În această perioadă, există deja un memento</string>
     <string name="s_reminders">Mementouri</string>
@@ -437,8 +435,7 @@ Actualizare nereușită!"</string>
     <string name="s_set_automatically">Setare automată</string>
     <string name="s_set_up_capital">CONFIGURARE</string>
     <string name="s_set_your_goals">Setează-Ți obiectivele</string>
-    <string name="s_set_your_goals_capital">SETAREA OBIECTIVELOR</string>
-    <string name="s_set_your_goals_capital1">SETEAZĂ-ȚI OBIECTIVELE</string>
+    <string name="s_set_your_goals_capital">SETEAZĂ-ȚI OBIECTIVELE</string>
     <string name="s_setting_AD_wearing_habits_Left_hand">Mâna stângă</string>
     <string name="s_setting_AD_wearing_habits_Right_hand">Mâna dreaptă</string>
     <string name="s_setting_advance_settings_always_sync_tip">ATENȚIE! Activarea acestei funcții va avea un impact vizibil asupra bateriei. Dorești să continui?</string>
@@ -446,7 +443,7 @@ Actualizare nereușită!"</string>
     <string name="s_setting_camera_tip">Fotografiere cu succes</string>
     <string name="s_setting_conn_unbind_zefit">DISOCIERE ZeFit⁴ ?</string>
     <string name="s_setting_conn_unbind_zefithr">DISOCIERE ZeFit⁴ᴴᴿ?</string>
-    <string name="s_setting_conn_unbind_zetime">Deconectare ZeTime?</string>
+    <string name="s_setting_conn_unbind_zetime">DISOCIERE 禅的时间?</string>
     <string name="s_setting_dfu_set_up">Configurare</string>
     <string name="s_setting_dfu_updating_tip1">Actualizare în curs</string>
     <string name="s_setting_dfu_updating_tip2">Această operațiune poate dura 5-10 minute</string>
@@ -532,8 +529,8 @@ Actualizare nereușită!"</string>
     <string name="s_time_must_be_set">Selectează data sau intervalul de repetare</string>
     <string name="s_time_sync_capital">ORĂ SINC</string>
     <string name="s_title_edit">Editare</string>
-    <string name="s_title_goal">Obiectiv</string>
-    <string name="s_title_heart_rate">Frecvență cardiacă</string>
+    <string name="s_title_goal">Obiective</string>
+    <string name="s_title_inactivity_alert">Alertă de inactivitate</string>
     <string name="s_title_my_profile">Profilul meu</string>
     <string name="s_title_reset">Resetare</string>
     <string name="s_title_save">Salvează</string>
@@ -553,6 +550,7 @@ Actualizare nereușită!"</string>
     <string name="s_unpair">Deconectare</string>
     <string name="s_unpair_capital">DECONECTARE</string>
     <string name="s_unpair_zetime">Deconectare ZeTime</string>
+    <string name="s_unpair_zetime_capital">Deconectare ZeTime?</string>
     <string name="s_upload_photo_tip">Se încarcă, această operațiune poate dura câteva minute</string>
     <string name="s_user_name">Nume de utilizator</string>
     <string name="s_user_name_capital">NUME DE UTILIZATOR</string>
@@ -581,6 +579,7 @@ TREZIRE"</string>
     <string name="s_wed_capital">MI</string>
     <string name="s_wednesday">Miercuri</string>
     <string name="s_week">Săptămână</string>
+    <string name="s_week_capital">SĂPTĂMÂNĂ</string>
     <string name="s_weight">Greutate</string>
     <string name="s_weight_capital">GREUTATE</string>
     <string name="s_wheel_ok">OK</string>

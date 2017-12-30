@@ -57,6 +57,7 @@
     <string name="status_bar_notification_info_overflow">999+</string>
     <string name="tw__login_btn_txt">트위터 계정으로 로그인하기</string>
     <string name="s_auto_time_sync_tip">סנכרן את השעון עם הטלפון</string>
+    <string name="s_calibration_capital">손질 교정</string>
     <string name="s_create_new_watch_face">새 시계 모드 만들기</string>
     <string name="s_default_wallpaper_capital">기본 배경 화면</string>
     <string name="s_dial">다이얼</string>
@@ -73,7 +74,6 @@
     <string name="s_remember_password">비밀번호 기억하기</string>
     <string name="s_set_your_goals">목표 설정</string>
     <string name="s_set_your_goals_capital">목표 설정</string>
-    <string name="s_set_your_goals_capital1">목표 설정</string>
     <string name="s_wallpaper">바탕 화면</string>
     <string name="s_zetime_find_device_tip">"기기를 선택하십시오.
 다음을 클릭하십시오."</string>

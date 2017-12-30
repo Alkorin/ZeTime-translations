@@ -102,7 +102,6 @@ WithMyKronoz的目標獨特而簡單：以多樣化的智能穿戴裝置滿足�
     <string name="s_activity_min_capital">活躍分鐘</string>
     <string name="s_activity_minutes">活躍分鐘</string>
     <string name="s_activity_no_more_data">沒有更多數據</string>
-    <string name="s_activity_sleep">睡眠</string>
     <string name="s_add_sleep_awake_later_bed">您的喚醒時間必須遲於睡眠時間。</string>
     <string name="s_add_sleep_bed_earlier_awake">您的睡眠時間必須早於喚醒時間。</string>
     <string name="s_add_sleep_capital">添加睡眠</string>
@@ -160,6 +159,7 @@ WithMyKronoz的目標獨特而簡單：以多樣化的智能穿戴裝置滿足�
     <string name="s_contact_customer_support">請連絡客服</string>
     <string name="s_copyright">"Kronoz LLC
  版權所有"</string>
+    <string name="s_correct_the_city_name">請輸入正確的城市名</string>
     <string name="s_country">國家</string>
     <string name="s_country_capital">國家</string>
     <string name="s_create_my_account">建立新帳戶</string>
@@ -236,7 +236,6 @@ WithMyKronoz的目標獨特而簡單：以多樣化的智能穿戴裝置滿足�
     <string name="s_gender_capital">性別</string>
     <string name="s_goal_achieved">目標達成</string>
     <string name="s_goal_capital">目標</string>
-    <string name="s_goal_sleep">睡覺</string>
     <string name="s_goal_step">步數</string>
     <string name="s_goals">目標</string>
     <string name="s_goals_settings_capital">目標設定</string>
@@ -266,6 +265,7 @@ WithMyKronoz的目標獨特而簡單：以多樣化的智能穿戴裝置滿足�
     <string name="s_hours_lower">小時</string>
     <string name="s_inactivity_alert">久坐提醒</string>
     <string name="s_inactivity_alert_capital">久坐提醒</string>
+    <string name="s_inactivity_alert_no_select_cycle_tip">選擇您希望提醒重複的那一天</string>
     <string name="s_insert_your">輸入您的</string>
     <string name="s_january_full_capital">一月</string>
     <string name="s_july_full_capital">七月</string>
@@ -378,6 +378,7 @@ WithMyKronoz的目標獨特而簡單：以多樣化的智能穿戴裝置滿足�
     <string name="s_personal_reminder">客製化重覆</string>
     <string name="s_personal_reminder_capital">客製化重覆</string>
     <string name="s_personal_reminder_content_empty">個人提醒內容不能爲空</string>
+    <string name="s_personal_reminder_content_more">個人提醒內容過長</string>
     <string name="s_photos">照片</string>
     <string name="s_photos_capital">照片</string>
     <string name="s_please_confirm_tip">請確認您手錶螢幕上的配對</string>
@@ -453,7 +454,6 @@ ZeFit⁴會輕輕震動並顯示
     <string name="s_reminder_every_day">Everyday</string>
     <string name="s_reminder_reminder_type">提醒類型</string>
     <string name="s_reminder_toast_max_count">不能超過10則提醒</string>
-    <string name="s_reminder_toast_no_reminder_day">請選擇提醒星期</string>
     <string name="s_reminder_toast_no_reminder_type">請選擇提醒事項</string>
     <string name="s_reminder_toast_time_same">時間不能重複！</string>
     <string name="s_reminders">提醒</string>
@@ -488,10 +488,7 @@ ZeFit⁴會輕輕震動並顯示
 目標"</string>
     <string name="s_set_your_goals_capital">"設定你的
 目標"</string>
-    <string name="s_set_your_goals_capital1">"設定你的
-目標"</string>
     <string name="s_setting_AD_inactivity_alert_interval">間隔</string>
-    <string name="s_setting_AD_inactivity_alert_no_select_cycle">Select the day you want the reminder to repeat</string>
     <string name="s_setting_AD_wearing_habits_Left_hand">左手</string>
     <string name="s_setting_AD_wearing_habits_Right_hand">右手</string>
     <string name="s_setting_advance_settings_always_sync_tip">警告！打開此功能會對電池有很大影響。您要繼續嗎？</string>
@@ -503,7 +500,7 @@ ZeFit⁴會輕輕震動並顯示
     <string name="s_setting_conn_unbind_tip">解綁 ZeFit⁴？</string>
     <string name="s_setting_conn_unbind_zefit">解綁 ZeFit⁴？</string>
     <string name="s_setting_conn_unbind_zefithr">解綁 ZeFit⁴ᴴᴿ？</string>
-    <string name="s_setting_conn_unbind_zetime">解綁 ZeTime?</string>
+    <string name="s_setting_conn_unbind_zetime">解綁 禅的时间?</string>
     <string name="s_setting_dfu_set_up">Set up</string>
     <string name="s_setting_dfu_updating_tip1">更新中</string>
     <string name="s_setting_dfu_updating_tip2">此過程將會花費5~10分鐘</string>
@@ -571,6 +568,7 @@ ZeFit⁴會輕輕震動並顯示
     <string name="s_star_enjoy_btn_yes">是的！</string>
     <string name="s_star_enjoy_zefit4">喜歡ZeFit⁴嗎？</string>
     <string name="s_star_enjoy_zefit4hr">喜歡ZeFit⁴ᴴᴿ嗎？</string>
+    <string name="s_star_enjoy_zetime">喜歡ZeTime嗎？</string>
     <string name="s_star_give_feedback_content">您是否介意給我們一些回饋？</string>
     <string name="s_start">開始</string>
     <string name="s_start_capital">開始</string>
@@ -613,7 +611,7 @@ ZeFit⁴會輕輕震動並顯示
     <string name="s_time_sync_capital">時間同步</string>
     <string name="s_title_edit">編輯</string>
     <string name="s_title_goal">目標</string>
-    <string name="s_title_heart_rate">心率</string>
+    <string name="s_title_inactivity_alert">Inactivity Alert</string>
     <string name="s_title_my_profile">個人設定</string>
     <string name="s_title_reset">出廠設置</string>
     <string name="s_title_save">保存</string>
@@ -633,6 +631,7 @@ ZeFit⁴會輕輕震動並顯示
     <string name="s_unpair">解綁</string>
     <string name="s_unpair_capital">解綁</string>
     <string name="s_unpair_zetime">解綁 ZeTime</string>
+    <string name="s_unpair_zetime_capital">解綁 ZeTime?</string>
     <string name="s_upload_photo_tip">正在上傳中，操作將會在1分鐘後完成</string>
     <string name="s_user_name">使用者名稱</string>
     <string name="s_user_name_capital">使用者名稱</string>
@@ -661,6 +660,7 @@ ZeFit⁴會輕輕震動並顯示
     <string name="s_wed_capital">三</string>
     <string name="s_wednesday">星期三</string>
     <string name="s_week">周</string>
+    <string name="s_week_capital">周</string>
     <string name="s_weight">體重</string>
     <string name="s_weight_capital">體重</string>
     <string name="s_wheel_ok">是</string>
@@ -682,7 +682,9 @@ ZeFit⁴會輕輕震動並顯示
     <string name="s_zetime_welcome_3">跟蹤你的日常活動和睡眠狀態</string>
     <string name="s_zetime_welcome_4">隨時保持連接</string>
     <string name="s_h_capital">時</string>
-    <string name="s_inactivity_alert_no_select_cycle_tip">選擇您希望提醒重複的那一天</string>
+    <string name="s_technical_support">技術支持</string>
+    <string name="s_technical_support_capital">技術支持</string>
     <string name="s_token_expired_tip">距離上次使用 ZeTime 已經超過三天了，請再次登入</string>
+    <string name="s_zentime_news">禅的消息</string>
     <string name="s_zetime_is_running">ZeTime 執行中</string>
 </resources>

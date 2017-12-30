@@ -71,7 +71,7 @@
     <string name="s_activity_detail_unit_bpm">bpm</string>
     <string name="s_activity_detail_unit_d">d</string>
     <string name="s_activity_detail_unit_kcal">קקל</string>
-    <string name="s_activity_detail_unit_km">km</string>
+    <string name="s_activity_detail_unit_km">קמ</string>
     <string name="s_activity_detail_week">שבוע</string>
     <string name="s_activity_goal">יעדים</string>
     <string name="s_activity_light_sleep">שינה קלה</string>
@@ -79,7 +79,6 @@
     <string name="s_activity_min_capital">"דק' פעילות"</string>
     <string name="s_activity_minutes">"דק' פעילות"</string>
     <string name="s_activity_no_more_data">אין נתונים נוספים</string>
-    <string name="s_activity_sleep">שינה</string>
     <string name="s_add_sleep_awake_later_bed">שעת ההתעוררות שלך צריכה להיות מאוחרת משעת הכניסה למיטה.</string>
     <string name="s_add_sleep_bed_earlier_awake">שעת הכניסה למיטה שלך צריכה להיות מוקדמת משעת ההתעוררות.</string>
     <string name="s_add_sleep_capital">הוסף שינה</string>
@@ -210,7 +209,6 @@
     <string name="s_gender_capital">מין</string>
     <string name="s_goal_achieved">המטרה הושגה</string>
     <string name="s_goal_capital">יעד</string>
-    <string name="s_goal_sleep">שינה</string>
     <string name="s_goal_step">צעדים</string>
     <string name="s_goals">יעדים</string>
     <string name="s_goals_settings_capital">קבע את היעדים שלך</string>
@@ -406,7 +404,6 @@
     <string name="s_reminder_capital">תזכורות</string>
     <string name="s_reminder_delete">למחוק את התזכורת?</string>
     <string name="s_reminder_toast_max_count">10 תזכורות לכל היותר</string>
-    <string name="s_reminder_toast_no_reminder_day">בחר ביום שבו ברצונך שהתזכורת תחזור על עצמה</string>
     <string name="s_reminder_toast_no_reminder_type">בחר סוג תזכורת</string>
     <string name="s_reminder_toast_time_same">אין אפשרות לחזור על הזמן!</string>
     <string name="s_reminders">תזכורות</string>
@@ -433,8 +430,7 @@
     <string name="s_set_automatically">הגדרה אוטומטית</string>
     <string name="s_set_up_capital">הגדרה</string>
     <string name="s_set_your_goals">קבע את היעדים שלך</string>
-    <string name="s_set_your_goals_capital">הגדר את היעדים שלך</string>
-    <string name="s_set_your_goals_capital1">קבע את היעדים שלך</string>
+    <string name="s_set_your_goals_capital">קבע את היעדים שלך</string>
     <string name="s_setting_AD_wearing_habits_Left_hand">צד שמאל</string>
     <string name="s_setting_AD_wearing_habits_Right_hand">צד ימין</string>
     <string name="s_setting_advance_settings_always_sync_tip">אזהרה! הפעלת תכונה זו משפיעה באופן ניכר על הסוללה. האם ברצונך להמשיך?</string>
@@ -442,7 +438,7 @@
     <string name="s_setting_camera_tip">צילום התמונה הצליח</string>
     <string name="s_setting_conn_unbind_zefit">בטל התאמת ZeFit⁴ ?</string>
     <string name="s_setting_conn_unbind_zefithr">בטל התאמת ZeFit⁴ᴴᴿ?</string>
-    <string name="s_setting_conn_unbind_zetime">בטל התאמת ZeTime?</string>
+    <string name="s_setting_conn_unbind_zetime">בטל התאמת 禅的时间?</string>
     <string name="s_setting_dfu_set_up">הגדרה</string>
     <string name="s_setting_dfu_updating_tip1">מתבצע עדכון</string>
     <string name="s_setting_dfu_updating_tip2">פעולה זו יכולה לקחת 5 עד 10 דקות</string>
@@ -458,7 +454,7 @@
     <string name="s_setting_my_profile_album">אלבום</string>
     <string name="s_setting_my_profile_country">מדינה/אזור</string>
     <string name="s_setting_my_profile_old_password">סיסמה ישנה</string>
-    <string name="s_setting_my_profile_password">סיסמה</string>
+    <string name="s_setting_my_profile_password">ססמה</string>
     <string name="s_setting_my_profile_username_length_tip">אורך השם צריך להיות יותר מ-X תווים בסינית 16 סיביות או Y תווים באנגלית 32 סיביות</string>
     <string name="s_setting_notifications_calendar">אירוע בלוח השנה</string>
     <string name="s_setting_notifications_call">שיחות</string>
@@ -529,7 +525,7 @@
     <string name="s_time_sync_capital">סנכרון השעה</string>
     <string name="s_title_edit">ערוך</string>
     <string name="s_title_goal">יעדים</string>
-    <string name="s_title_heart_rate">קצב לב</string>
+    <string name="s_title_inactivity_alert">התרעה על אי-פעילות</string>
     <string name="s_title_my_profile">הפרופיל שלי</string>
     <string name="s_title_reset">איפוס</string>
     <string name="s_title_save">שמור</string>
@@ -549,6 +545,7 @@
     <string name="s_unpair">בטל התאמה</string>
     <string name="s_unpair_capital">בטל התאמה</string>
     <string name="s_unpair_zetime">בטל התאמת ZeTime</string>
+    <string name="s_unpair_zetime_capital">בטל התאמת ZeTime?</string>
     <string name="s_upload_photo_tip">הטעינה מתבצעת, לצורך השלמת פעולה זו נדרשת כדקה</string>
     <string name="s_user_name">שם משתמש</string>
     <string name="s_user_name_capital">שם משתמש</string>
@@ -577,6 +574,7 @@
     <string name="s_wed_capital">"ד'"</string>
     <string name="s_wednesday">רביעי</string>
     <string name="s_week">שבוע</string>
+    <string name="s_week_capital">שבוע</string>
     <string name="s_weight">משקל</string>
     <string name="s_weight_capital">משקל</string>
     <string name="s_wheel_ok">אישור</string>

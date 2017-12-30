@@ -102,7 +102,6 @@ Dlatego inżynierowie firmy nieustannie tworzą innowacyjne urządzenia do nosze
     <string name="s_activity_min_capital">MINUTY AKTYWNOŚCI</string>
     <string name="s_activity_minutes">Minuty aktywności</string>
     <string name="s_activity_no_more_data">Brak dalszych danych</string>
-    <string name="s_activity_sleep">SEN</string>
     <string name="s_add_sleep_awake_later_bed">Czas pobudki musi być poźniejszy niż czas zaśnięcia</string>
     <string name="s_add_sleep_bed_earlier_awake">Czas zaśnięcia musi być wcześniejszy niż czas pobudki</string>
     <string name="s_add_sleep_capital">DODAJ SEN</string>
@@ -237,7 +236,6 @@ SNU"</string>
     <string name="s_gender_capital">PŁEĆ</string>
     <string name="s_goal_achieved">Cel osiągnięty</string>
     <string name="s_goal_capital">CEL</string>
-    <string name="s_goal_sleep">Sen</string>
     <string name="s_goal_step">KROKI</string>
     <string name="s_goals">Cele</string>
     <string name="s_goals_settings_capital">USTAWIENIA CELÓW</string>
@@ -249,9 +247,9 @@ PAROWANIE POWIODŁO SIĘ"</string>
     <string name="s_hands_calibration_capital">KALIBRACJA WSKAZÓWEK</string>
     <string name="s_hands_running">Tylko pracujące wskazówki</string>
     <string name="s_hands_running_activity_tracking">Pracujące wskazówki i krokomierz</string>
-    <string name="s_heart_rate">Plus</string>
-    <string name="s_heart_rate_c">Plus</string>
-    <string name="s_heart_rate_capital">PULS SERCA</string>
+    <string name="s_heart_rate">Puls</string>
+    <string name="s_heart_rate_c">Puls</string>
+    <string name="s_heart_rate_capital">PULS</string>
     <string name="s_heart_rate_max">Górny limit pulsu to 220</string>
     <string name="s_heart_rate_min">Dolny limit pulsu to 40</string>
     <string name="s_heart_rate_min_must_less_max">Zakres pulsu musi być niższy niż górna granica pulsu</string>
@@ -269,6 +267,7 @@ PAROWANIE POWIODŁO SIĘ"</string>
     <string name="s_hours_lower">godziny</string>
     <string name="s_inactivity_alert">Alert o nieaktywności</string>
     <string name="s_inactivity_alert_capital">ALERT O NIEAKTYWNOŚCI</string>
+    <string name="s_inactivity_alert_no_select_cycle_tip">Wybierz dzień powtarzania przypomnienia</string>
     <string name="s_insert_your">Włóż swoje</string>
     <string name="s_january_full_capital">STYCZEŃ</string>
     <string name="s_july_full_capital">LIPIEC</string>
@@ -381,11 +380,13 @@ Aktualizacja nie powiodła się"</string>
     <string name="s_personal_information_capital">DANE OSOBOWE</string>
     <string name="s_personal_reminder">Inne</string>
     <string name="s_personal_reminder_capital">INNE</string>
-    <string name="s_personal_reminder_content_empty">Osobiste przypomnienie nie może być puste</string>
+    <string name="s_personal_reminder_content_empty">Osobista treść przypomnienia nie może być pusta</string>
+    <string name="s_personal_reminder_content_more">Osobista treść przypomnienia jest za długa</string>
     <string name="s_photos">Zdjęcia</string>
     <string name="s_photos_capital">ZDJĘCIA</string>
     <string name="s_please_confirm_tip">"Potwierdź parowanie
 na ekranie zegarka"</string>
+    <string name="s_please_unlock_first">Kliknij przycisk odblokuj</string>
     <string name="s_power_off_mode">Tryb rozładowanej baterii</string>
     <string name="s_power_off_mode_capital">TRYB ROZŁADOWANEJ BATERII</string>
     <string name="s_preset_answers">Szablony odpowiedzi</string>
@@ -458,7 +459,6 @@ wyświetli odpowiednią ikonę z alertem
     <string name="s_reminder_every_day">Everyday</string>
     <string name="s_reminder_reminder_type">Typ przypomnienia</string>
     <string name="s_reminder_toast_max_count">Nie więcej niż 10 przypomnień</string>
-    <string name="s_reminder_toast_no_reminder_day">Wybierz dzień powtarzania przypomnienia</string>
     <string name="s_reminder_toast_no_reminder_type">Wybierz rodzaj przypomnienia</string>
     <string name="s_reminder_toast_time_same">Już istnieje przypomnienie w tym czasie</string>
     <string name="s_reminders">Przypomnienia</string>
@@ -489,11 +489,8 @@ wyświetli odpowiednią ikonę z alertem
     <string name="s_set_automatically">Ustaw automatycznie</string>
     <string name="s_set_up_capital">KONFIGURACJA</string>
     <string name="s_set_your_goals">Ustaw swoje cele</string>
-    <string name="s_set_your_goals_capital">"USTAL SWOJE 
-CELE"</string>
-    <string name="s_set_your_goals_capital1">USTAW SWOJE CELE</string>
+    <string name="s_set_your_goals_capital">USTAW SWOJE CELE</string>
     <string name="s_setting_AD_inactivity_alert_interval">Przedział Czasu</string>
-    <string name="s_setting_AD_inactivity_alert_no_select_cycle">Select the day you want the reminder to repeat</string>
     <string name="s_setting_AD_wearing_habits_Left_hand">Lewa ręka</string>
     <string name="s_setting_AD_wearing_habits_Right_hand">Prawa ręka</string>
     <string name="s_setting_advance_settings_always_sync_tip">OSTRZEŻENIE! Włączenie tej funkcji będzie, mają znaczący wpływ na baterii. Czy chcesz kontynuować?</string>
@@ -505,7 +502,7 @@ CELE"</string>
     <string name="s_setting_conn_unbind_tip">ANULUJ SPAROWANIE ZeFit⁴?</string>
     <string name="s_setting_conn_unbind_zefit">ANULUJ SPAROWANIE ZeFit⁴?</string>
     <string name="s_setting_conn_unbind_zefithr">ANULUJ SPAROWANIE ZeFit⁴ᴴᴿ?</string>
-    <string name="s_setting_conn_unbind_zetime">USUŃ PAROWANIE ZeTime?</string>
+    <string name="s_setting_conn_unbind_zetime">ANULUJ SPAROWANIE 禅的时间?</string>
     <string name="s_setting_dfu_set_up">Konfiguracja</string>
     <string name="s_setting_dfu_updating_tip1">Aktualizacja w toku</string>
     <string name="s_setting_dfu_updating_tip2">Proces ten może potrwać od 5-10 minut</string>
@@ -574,6 +571,7 @@ Pobrać teraz?"</string>
     <string name="s_star_enjoy_btn_yes">Tak!</string>
     <string name="s_star_enjoy_zefit4">Podoba Ci się aplikacja ZeFit⁴?</string>
     <string name="s_star_enjoy_zefit4hr">Podoba Ci się aplikacja ZeFit⁴ᴴᴿ?</string>
+    <string name="s_star_enjoy_zetime">Podoba Ci się aplikacja ZeTime?</string>
     <string name="s_star_give_feedback_content">Będziemy wdzięczni za Twoje uwagi.</string>
     <string name="s_start">Start</string>
     <string name="s_start_capital">START</string>
@@ -615,7 +613,7 @@ Pobrać teraz?"</string>
     <string name="s_time_sync_capital">SYNCHRONIZACJA CZASU</string>
     <string name="s_title_edit">Edytuj</string>
     <string name="s_title_goal">Cele</string>
-    <string name="s_title_heart_rate">Puls</string>
+    <string name="s_title_inactivity_alert">Alert dotyczący nieaktywności</string>
     <string name="s_title_my_profile">Mój profil</string>
     <string name="s_title_reset">Resetuj</string>
     <string name="s_title_save">Zapisz</string>
@@ -635,6 +633,7 @@ Pobrać teraz?"</string>
     <string name="s_unpair">USUŃ PAROWANIE</string>
     <string name="s_unpair_capital">USUŃ PAROWANIE</string>
     <string name="s_unpair_zetime">Usuń parowanie ZeTime</string>
+    <string name="s_unpair_zetime_capital">USUŃ PAROWANIE ZeTime?</string>
     <string name="s_upload_photo_tip">Trwa wgrywanie. Może to zająć około minuty.</string>
     <string name="s_user_name">Nazwa użytkownika</string>
     <string name="s_user_name_capital">NAZWA UŻYTKOWNIKA</string>
@@ -666,6 +665,7 @@ zachować w pamięci zegarka"</string>
     <string name="s_wed_capital">ŚR</string>
     <string name="s_wednesday">Środa</string>
     <string name="s_week">Tydzień</string>
+    <string name="s_week_capital">TYDZIEŃ</string>
     <string name="s_weight">Waga</string>
     <string name="s_weight_capital">WAGA</string>
     <string name="s_wheel_ok">OK</string>
